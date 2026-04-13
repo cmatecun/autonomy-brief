@@ -1,0 +1,43 @@
+---
+source: astral-codex-ten
+from: Astral Codex Ten <astralcodexten@substack.com>
+subject: "Open Thread 429"
+date: 2026-04-13T12:53:42.000Z
+extracted: 2026-04-13T18:23:08.880Z
+---
+
+# Open Thread 429
+
+**From:** Astral Codex Ten <astralcodexten@substack.com>  
+**Date:** 2026-04-13T12:53:42.000Z
+
+---
+
+View this post on the web at https://www.astralcodexten.com/p/open-thread-429
+
+This is the weekly visible open thread. Post about anything you want, ask random questions, whatever. ACX has an unofficial subreddit [ https://substack.com/redirect/dab68008-5c01-4bef-9c70-1cdb909f1ba5?j=eyJ1IjoiMXlnZjcifQ.KOUIeBfeCRzhIwFnKXyQigR4j0VpF-SZzascYhSZunw ], Discord [ https://substack.com/redirect/47935847-a332-4cab-bca3-54c97fe15fb5?j=eyJ1IjoiMXlnZjcifQ.KOUIeBfeCRzhIwFnKXyQigR4j0VpF-SZzascYhSZunw ], and bulletin board [ https://substack.com/redirect/28254356-004a-4346-983d-1c12e598d567?j=eyJ1IjoiMXlnZjcifQ.KOUIeBfeCRzhIwFnKXyQigR4j0VpF-SZzascYhSZunw ], and in-person meetups around the world [ https://substack.com/redirect/78476883-4f67-44e6-a2b8-b75b405b2321?j=eyJ1IjoiMXlnZjcifQ.KOUIeBfeCRzhIwFnKXyQigR4j0VpF-SZzascYhSZunw ]. Most content is free, some is subscriber only; you can subscribe here [ https://substack.com/redirect/e125280c-931c-4fab-b517-4d62bc93ea04?j=eyJ1IjoiMXlnZjcifQ.KOUIeBfeCRzhIwFnKXyQigR4j0VpF-SZzascYhSZunw ]. Also:
+1: Late addition to spring meetup list [ https://substack.com/redirect/532c853e-cf80-47a4-a4b4-5032db74de35?j=eyJ1IjoiMXlnZjcifQ.KOUIeBfeCRzhIwFnKXyQigR4j0VpF-SZzascYhSZunw ]: Oxford, on April 29.
+2: ACX grantee JD Bauman has co-written a book, All The Lives You Can Change: Effective Altruism For Christians [ https://substack.com/redirect/66505319-b131-4295-b461-697c8a29a7df?j=eyJ1IjoiMXlnZjcifQ.KOUIeBfeCRzhIwFnKXyQigR4j0VpF-SZzascYhSZunw ], which “combines tenets from effective altruism with Scripture to show practical ways individuals can truly make a difference.” Will be out on April 28, currently available for pre-order.
+
+Unsubscribe https://substack.com/redirect/2/eyJlIjoiaHR0cHM6Ly93d3cuYXN0cmFsY29kZXh0ZW4uY29tL2FjdGlvbi9kaXNhYmxlX2VtYWlsP3Rva2VuPWV5SjFjMlZ5WDJsa0lqb3pNamczTWpBekxDSndiM04wWDJsa0lqb3hPVFF3TmpVNE9EY3NJbWxoZENJNk1UYzNOakE0TkRrM05Dd2laWGh3SWpveE9EQTNOakl3T1RjMExDSnBjM01pT2lKd2RXSXRPRGt4TWpBaUxDSnpkV0lpT2lKa2FYTmhZbXhsWDJWdFlXbHNJbjAuaTNzMndnakdST0FZdzRDWlZmY1FYcUpoVV9MSlZxTERRYl9QTmg2YVBuRSIsInAiOjE5NDA2NTg4NywicyI6ODkxMjAsImYiOmZhbHNlLCJ1IjozMjg3MjAzLCJpYXQiOjE3NzYwODQ5NzQsImV4cCI6MjA5MTY2MDk3NCwiaXNzIjoicHViLTAiLCJzdWIiOiJsaW5rLXJlZGlyZWN0In0.LJEmsJgRNPnoxWfvfE0G_gcwrwNKHQfVG05jBctyEFI?
+
+---
+
+## Links found in email
+
+- https://substack.com/redirect/2/eyJlIjoiaHR0cHM6Ly93d3cuYXN0cmFsY29kZXh0ZW4uY29tL3N1YnNjcmliZT91dG1fc291cmNlPWVtYWlsJnV0bV9jYW1wYWlnbj1lbWFpbC1zdWJzY3JpYmUmcj0xeWdmNyZuZXh0PWh0dHBzJTNBJTJGJTJGd3d3LmFzdHJhbGNvZGV4dGVuLmNvbSUyRnAlMkZvcGVuLXRocmVhZC00MjkiLCJwIjoxOTQwNjU4ODcsInMiOjg5MTIwLCJmIjpmYWxzZSwidSI6MzI4NzIwMywiaWF0IjoxNzc2MDg0OTc0LCJleHAiOjIwOTE2NjA5NzQsImlzcyI6InB1Yi0wIiwic3ViIjoibGluay1yZWRpcmVjdCJ9.heyraaXy_X5KRdxA0Z5f_8UXmIp51pD200Od88TAib8?
+- https://substack.com/app-link/post?publication_id=89120&post_id=194065887&utm_source=post-email-title&utm_campaign=email-post-title&isFreemail=false&r=1ygf7&token=eyJ1c2VyX2lkIjozMjg3MjAzLCJwb3N0X2lkIjoxOTQwNjU4ODcsImlhdCI6MTc3NjA4NDk3NCwiZXhwIjoxNzc4Njc2OTc0LCJpc3MiOiJwdWItODkxMjAiLCJzdWIiOiJwb3N0LXJlYWN0aW9uIn0.GOy7bDTiIETvQ0igXThMestpUHJtXIFMR1DpMSQ8m3s
+- https://substack.com/app-link/post?publication_id=89120&post_id=194065887&utm_source=substack&isFreemail=false&submitLike=true&token=eyJ1c2VyX2lkIjozMjg3MjAzLCJwb3N0X2lkIjoxOTQwNjU4ODcsInJlYWN0aW9uIjoi4p2kIiwiaWF0IjoxNzc2MDg0OTc0LCJleHAiOjE3Nzg2NzY5NzQsImlzcyI6InB1Yi04OTEyMCIsInN1YiI6InJlYWN0aW9uIn0.uA5LXWlT-z3bEJi9_QXTDKebQPQnTf2Bwki85pLxlao&utm_medium=email&utm_campaign=email-reaction&r=1ygf7
+- https://substack.com/app-link/post?publication_id=89120&post_id=194065887&utm_source=substack&utm_medium=email&isFreemail=false&comments=true&token=eyJ1c2VyX2lkIjozMjg3MjAzLCJwb3N0X2lkIjoxOTQwNjU4ODcsImlhdCI6MTc3NjA4NDk3NCwiZXhwIjoxNzc4Njc2OTc0LCJpc3MiOiJwdWItODkxMjAiLCJzdWIiOiJwb3N0LXJlYWN0aW9uIn0.GOy7bDTiIETvQ0igXThMestpUHJtXIFMR1DpMSQ8m3s&r=1ygf7&utm_campaign=email-half-magic-comments&action=post-comment&utm_source=substack&utm_medium=email
+- https://substack.com/app-link/post?publication_id=89120&post_id=194065887&utm_source=substack&utm_medium=email&utm_content=share&utm_campaign=email-share&action=share&triggerShare=true&isFreemail=false&r=1ygf7&token=eyJ1c2VyX2lkIjozMjg3MjAzLCJwb3N0X2lkIjoxOTQwNjU4ODcsImlhdCI6MTc3NjA4NDk3NCwiZXhwIjoxNzc4Njc2OTc0LCJpc3MiOiJwdWItODkxMjAiLCJzdWIiOiJwb3N0LXJlYWN0aW9uIn0.GOy7bDTiIETvQ0igXThMestpUHJtXIFMR1DpMSQ8m3s
+- https://substack.com/redirect/2/eyJlIjoiaHR0cHM6Ly9vcGVuLnN1YnN0YWNrLmNvbS9wdWIvYXN0cmFsY29kZXh0ZW4vcC9vcGVuLXRocmVhZC00Mjk_dXRtX3NvdXJjZT1zdWJzdGFjayZ1dG1fbWVkaXVtPWVtYWlsJnV0bV9jYW1wYWlnbj1lbWFpbC1yZXN0YWNrLWNvbW1lbnQmYWN0aW9uPXJlc3RhY2stY29tbWVudCZyPTF5Z2Y3JnRva2VuPWV5SjFjMlZ5WDJsa0lqb3pNamczTWpBekxDSndiM04wWDJsa0lqb3hPVFF3TmpVNE9EY3NJbWxoZENJNk1UYzNOakE0TkRrM05Dd2laWGh3SWpveE56YzROamMyT1RjMExDSnBjM01pT2lKd2RXSXRPRGt4TWpBaUxDSnpkV0lpT2lKd2IzTjBMWEpsWVdOMGFXOXVJbjAuR095N2JEVGlJRVR2UTBpZ1hUaE1lc3RwVUhKdFhJRk1SMURwTVNROG0zcyIsInAiOjE5NDA2NTg4NywicyI6ODkxMjAsImYiOmZhbHNlLCJ1IjozMjg3MjAzLCJpYXQiOjE3NzYwODQ5NzQsImV4cCI6MjA5MTY2MDk3NCwiaXNzIjoicHViLTAiLCJzdWIiOiJsaW5rLXJlZGlyZWN0In0.Wi502nM-qb_WKBAMeR8-wJjMHXe24cEPuxRMQuvg1tY?&utm_source=substack&utm_medium=email
+- https://open.substack.com/pub/astralcodexten/p/open-thread-429?utm_source=email&redirect=app-store&utm_campaign=email-read-in-app
+- https://substack.com/redirect/dab68008-5c01-4bef-9c70-1cdb909f1ba5?j=eyJ1IjoiMXlnZjcifQ.KOUIeBfeCRzhIwFnKXyQigR4j0VpF-SZzascYhSZunw
+- https://substack.com/redirect/47935847-a332-4cab-bca3-54c97fe15fb5?j=eyJ1IjoiMXlnZjcifQ.KOUIeBfeCRzhIwFnKXyQigR4j0VpF-SZzascYhSZunw
+- https://substack.com/redirect/28254356-004a-4346-983d-1c12e598d567?j=eyJ1IjoiMXlnZjcifQ.KOUIeBfeCRzhIwFnKXyQigR4j0VpF-SZzascYhSZunw
+- https://substack.com/redirect/78476883-4f67-44e6-a2b8-b75b405b2321?j=eyJ1IjoiMXlnZjcifQ.KOUIeBfeCRzhIwFnKXyQigR4j0VpF-SZzascYhSZunw
+- https://substack.com/redirect/e125280c-931c-4fab-b517-4d62bc93ea04?j=eyJ1IjoiMXlnZjcifQ.KOUIeBfeCRzhIwFnKXyQigR4j0VpF-SZzascYhSZunw
+- https://substack.com/redirect/532c853e-cf80-47a4-a4b4-5032db74de35?j=eyJ1IjoiMXlnZjcifQ.KOUIeBfeCRzhIwFnKXyQigR4j0VpF-SZzascYhSZunw
+- https://substack.com/redirect/66505319-b131-4295-b461-697c8a29a7df?j=eyJ1IjoiMXlnZjcifQ.KOUIeBfeCRzhIwFnKXyQigR4j0VpF-SZzascYhSZunw
+- https://substack.com/redirect/2/eyJlIjoiaHR0cHM6Ly93d3cuYXN0cmFsY29kZXh0ZW4uY29tL2FjdGlvbi9kaXNhYmxlX2VtYWlsP3Rva2VuPWV5SjFjMlZ5WDJsa0lqb3pNamczTWpBekxDSndiM04wWDJsa0lqb3hPVFF3TmpVNE9EY3NJbWxoZENJNk1UYzNOakE0TkRrM05Dd2laWGh3SWpveE9EQTNOakl3T1RjMExDSnBjM01pT2lKd2RXSXRPRGt4TWpBaUxDSnpkV0lpT2lKa2FYTmhZbXhsWDJWdFlXbHNJbjAuaTNzMndnakdST0FZdzRDWlZmY1FYcUpoVV9MSlZxTERRYl9QTmg2YVBuRSIsInAiOjE5NDA2NTg4NywicyI6ODkxMjAsImYiOmZhbHNlLCJ1IjozMjg3MjAzLCJpYXQiOjE3NzYwODQ5NzQsImV4cCI6MjA5MTY2MDk3NCwiaXNzIjoicHViLTAiLCJzdWIiOiJsaW5rLXJlZGlyZWN0In0.LJEmsJgRNPnoxWfvfE0G_gcwrwNKHQfVG05jBctyEFI?
+- https://substack.com/redirect/2/eyJlIjoiaHR0cHM6Ly9zdWJzdGFjay5jb20vc2lnbnVwP3V0bV9zb3VyY2U9c3Vic3RhY2smdXRtX21lZGl1bT1lbWFpbCZ1dG1fY29udGVudD1mb290ZXImdXRtX2NhbXBhaWduPWF1dG9maWxsZWQtZm9vdGVyJmZyZWVTaWdudXBFbWFpbD1jbWF0ZWN1bkBnbWFpbC5jb20mcj0xeWdmNyIsInAiOjE5NDA2NTg4NywicyI6ODkxMjAsImYiOmZhbHNlLCJ1IjozMjg3MjAzLCJpYXQiOjE3NzYwODQ5NzQsImV4cCI6MjA5MTY2MDk3NCwiaXNzIjoicHViLTAiLCJzdWIiOiJsaW5rLXJlZGlyZWN0In0.wzmpPiFX3HXYXlpwY_Rz5GZaj82HnSlTO1X64QudtNo?
