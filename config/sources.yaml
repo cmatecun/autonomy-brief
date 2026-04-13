@@ -1,0 +1,107 @@
+# Autonomy Brief - Content Sources
+# Sources are categorized by type and tagged for relevance filtering
+
+newsletters:
+  # Dedicated AV sources (always fully scan)
+  - name: AV Market Strategist
+    email: avmarketstrategist@substack.com
+    rss: https://avmarketstrategist.substack.com/feed
+    category: av-dedicated
+
+  - name: Driverless Digest
+    email: thedriverlessdigest@substack.com
+    rss: https://www.thedriverlessdigest.com/feed
+    category: av-dedicated
+
+  - name: Road to Autonomy
+    email: null  # TBD - just subscribed
+    rss: https://www.roadtoautonomy.com/feed/
+    category: av-dedicated
+
+  - name: Platform Aeronaut
+    email: platformaeronaut@substack.com
+    rss: https://www.platformaeronaut.com/feed
+    category: av-adjacent
+
+  # Broader sources (filter for AV/autonomy relevance)
+  - name: Not Boring
+    email: notboring@substack.com
+    rss: https://www.notboring.co/feed
+    category: broad-tech
+
+  - name: Stratechery
+    email: email@stratechery.com
+    rss: null  # paywalled
+    category: broad-tech
+
+  - name: Astral Codex Ten
+    email: astralcodexten@substack.com
+    rss: https://www.astralcodexten.com/feed
+    category: broad-tech
+
+  - name: Sam Lessin / SWL Week in Review
+    email: s@wlessin.com
+    rss: null  # email only
+    category: broad-tech
+
+  - name: StrictlyVC
+    email: connie@strictlyvc.com
+    rss: null  # email only
+    category: broad-tech
+
+  - name: TBPN
+    email: tbpn@substack.com
+    rss: https://tbpn.substack.com/feed
+    category: broad-tech
+
+  - name: Ben Evans
+    email: list@ben-evans.com
+    rss: https://www.ben-evans.com/feed
+    category: broad-tech
+
+reddit:
+  - name: r/SelfDrivingCars
+    url: https://www.reddit.com/r/SelfDrivingCars/
+    rss: https://www.reddit.com/r/SelfDrivingCars/top.rss?t=week
+    category: av-dedicated
+
+  - name: r/waymo
+    url: https://www.reddit.com/r/waymo/
+    rss: https://www.reddit.com/r/waymo/top.rss?t=week
+    category: av-dedicated
+
+twitter:
+  - handle: "@TMTLongShort"
+    category: broad-tech
+  - handle: "@reed"
+    category: broad-tech
+
+youtube:
+  - name: The MAD Podcast (Matt Turck)
+    url: https://www.youtube.com/@DataDrivenNYC
+    category: broad-tech
+
+  - name: No Priors Podcast
+    url: https://www.youtube.com/@NoPriorsPodcast
+    category: broad-tech
+
+  - name: Dwarkesh Patel
+    url: https://www.youtube.com/@DwarkeshPatel
+    category: broad-tech
+
+# Digest configuration
+digest:
+  av_weekly:
+    cadence: twice-weekly  # Monday and Thursday
+    tone: professional analyst briefing
+    length: 5-7 min read
+    format: chief-of-staff brief
+    output: markdown
+
+  daily_brief:
+    cadence: daily
+    tone: professional analyst briefing
+    length: ~5 min read
+    format: chief-of-staff brief
+    output: markdown
+    status: planned  # not yet built
