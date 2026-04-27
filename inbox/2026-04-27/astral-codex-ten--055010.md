@@ -1,0 +1,50 @@
+---
+source: astral-codex-ten
+from: Astral Codex Ten <astralcodexten@substack.com>
+subject: "Open Thread 431"
+date: 2026-04-27T12:50:10.000Z
+extracted: 2026-04-27T13:08:11.474Z
+---
+
+# Open Thread 431
+
+**From:** Astral Codex Ten <astralcodexten@substack.com>  
+**Date:** 2026-04-27T12:50:10.000Z
+
+---
+
+View this post on the web at https://www.astralcodexten.com/p/open-thread-431
+
+This is the weekly visible open thread. Post about anything you want, ask random questions, whatever. ACX has an unofficial subreddit [ https://substack.com/redirect/2022941c-e3a1-4f13-a91a-9f6d16c37efe?j=eyJ1IjoiMXlnZjcifQ.KOUIeBfeCRzhIwFnKXyQigR4j0VpF-SZzascYhSZunw ], Discord [ https://substack.com/redirect/20ef3f90-8495-4d7a-86de-132726d005a9?j=eyJ1IjoiMXlnZjcifQ.KOUIeBfeCRzhIwFnKXyQigR4j0VpF-SZzascYhSZunw ], and bulletin board [ https://substack.com/redirect/8ba065e7-dac4-4153-a171-9e798175826a?j=eyJ1IjoiMXlnZjcifQ.KOUIeBfeCRzhIwFnKXyQigR4j0VpF-SZzascYhSZunw ], and in-person meetups around the world [ https://substack.com/redirect/fc51291b-7d05-4ac9-b0d3-a5e407e3e1c0?j=eyJ1IjoiMXlnZjcifQ.KOUIeBfeCRzhIwFnKXyQigR4j0VpF-SZzascYhSZunw ]. Most content is free, some is subscriber only; you can subscribe here [ https://substack.com/redirect/c8dee951-f27f-4d0e-b389-a64030d7735d?j=eyJ1IjoiMXlnZjcifQ.KOUIeBfeCRzhIwFnKXyQigR4j0VpF-SZzascYhSZunw ]. Also:
+1: This year’s European Less Wrong Community Weekend will be in Berlin, September 11 - 13, learn more and apply here [ https://substack.com/redirect/6040d9a4-7c52-4711-b9ec-3b3530c26680?j=eyJ1IjoiMXlnZjcifQ.KOUIeBfeCRzhIwFnKXyQigR4j0VpF-SZzascYhSZunw ].
+2: The short-form-video arm of our conspiracy has announced plzdontkillus [ https://substack.com/redirect/e27e1a02-1c9e-4504-bafb-02f15a354eac?j=eyJ1IjoiMXlnZjcifQ.KOUIeBfeCRzhIwFnKXyQigR4j0VpF-SZzascYhSZunw ], an effort to interest influencers/creators/TikTokkers etc in AI safety. Several dozen influencers will get scholarships to spend the month of July together on the Lighthaven campus in Berkeley to learn about AI, make videos, compete for prizes, have weird beefs with each other, and do whatever else influencers do when you force them into close proximity. Mentors include Grimes, Aella, the Botez sisters, and Eliezer Yudkowsky. I assume they want cool people for this and therefore none of my blog readers qualify, but if you want to prove me wrong, you can apply here [ https://substack.com/redirect/e27e1a02-1c9e-4504-bafb-02f15a354eac?j=eyJ1IjoiMXlnZjcifQ.KOUIeBfeCRzhIwFnKXyQigR4j0VpF-SZzascYhSZunw ]. Further discussion/justification here [ https://substack.com/redirect/6cd3b1b9-7e6d-40f2-aacc-181993954240?j=eyJ1IjoiMXlnZjcifQ.KOUIeBfeCRzhIwFnKXyQigR4j0VpF-SZzascYhSZunw ].
+3: Sort-of-ACX-grantee Manifund asks me to announce their newest charitable project, the Falcon Fund [ https://substack.com/redirect/007a9ce2-3621-4829-a329-26ba7ce286e9?j=eyJ1IjoiMXlnZjcifQ.KOUIeBfeCRzhIwFnKXyQigR4j0VpF-SZzascYhSZunw ], for “rapid (<1 week), early-stage ($25-150K) grants across animal welfare, with a particular interest in the intersection of animals and transformative AI”, currently seeking donations.
+4: New EA-linked magazine, In Development [ https://substack.com/redirect/cf48805b-3e17-4ed5-924b-1df4c5b53273?j=eyJ1IjoiMXlnZjcifQ.KOUIeBfeCRzhIwFnKXyQigR4j0VpF-SZzascYhSZunw ], highlighting issues in global development - economics, charity, history, etc. First article [ https://substack.com/redirect/b8c7afe1-c2b7-4d66-90fa-b93ca5981f7e?j=eyJ1IjoiMXlnZjcifQ.KOUIeBfeCRzhIwFnKXyQigR4j0VpF-SZzascYhSZunw ] is by a GiveDirectly co-founder discussing the evidence for cash transfers; second article [ https://substack.com/redirect/f73c3d3b-8043-48a3-aed5-fb45093db4c6?j=eyJ1IjoiMXlnZjcifQ.KOUIeBfeCRzhIwFnKXyQigR4j0VpF-SZzascYhSZunw ] is (in accordance with tradition) an argument for why you should forget the first article and do something else.
+
+Unsubscribe https://substack.com/redirect/2/eyJlIjoiaHR0cHM6Ly93d3cuYXN0cmFsY29kZXh0ZW4uY29tL2FjdGlvbi9kaXNhYmxlX2VtYWlsP3Rva2VuPWV5SjFjMlZ5WDJsa0lqb3pNamczTWpBekxDSndiM04wWDJsa0lqb3hPVFUyTVRrM09UWXNJbWxoZENJNk1UYzNOekk1TkRNek5Dd2laWGh3SWpveE9EQTRPRE13TXpNMExDSnBjM01pT2lKd2RXSXRPRGt4TWpBaUxDSnpkV0lpT2lKa2FYTmhZbXhsWDJWdFlXbHNJbjAuZ0F6dXJzbVV1QWNBWmNaTloyb2lGUEE3UEJGMHd2WVNlcFRNOUNUM1BIWSIsInAiOjE5NTYxOTc5NiwicyI6ODkxMjAsImYiOmZhbHNlLCJ1IjozMjg3MjAzLCJpYXQiOjE3NzcyOTQzMzQsImV4cCI6MjA5Mjg3MDMzNCwiaXNzIjoicHViLTAiLCJzdWIiOiJsaW5rLXJlZGlyZWN0In0.ADzovpUKiSpO5KHqqPo0RYUibNh7HTLfhnZV6rumJC4?
+
+---
+
+## Links found in email
+
+- https://substack.com/redirect/2/eyJlIjoiaHR0cHM6Ly93d3cuYXN0cmFsY29kZXh0ZW4uY29tL3N1YnNjcmliZT91dG1fc291cmNlPWVtYWlsJnV0bV9jYW1wYWlnbj1lbWFpbC1zdWJzY3JpYmUmcj0xeWdmNyZuZXh0PWh0dHBzJTNBJTJGJTJGd3d3LmFzdHJhbGNvZGV4dGVuLmNvbSUyRnAlMkZvcGVuLXRocmVhZC00MzEiLCJwIjoxOTU2MTk3OTYsInMiOjg5MTIwLCJmIjpmYWxzZSwidSI6MzI4NzIwMywiaWF0IjoxNzc3Mjk0MzM0LCJleHAiOjIwOTI4NzAzMzQsImlzcyI6InB1Yi0wIiwic3ViIjoibGluay1yZWRpcmVjdCJ9.R2Y0UoiXLVgyQ5DajdH8HbNXAn3S3vOkA5nL0t21pPM?
+- https://substack.com/app-link/post?publication_id=89120&post_id=195619796&utm_source=post-email-title&utm_campaign=email-post-title&isFreemail=false&r=1ygf7&token=eyJ1c2VyX2lkIjozMjg3MjAzLCJwb3N0X2lkIjoxOTU2MTk3OTYsImlhdCI6MTc3NzI5NDMzNCwiZXhwIjoxNzc5ODg2MzM0LCJpc3MiOiJwdWItODkxMjAiLCJzdWIiOiJwb3N0LXJlYWN0aW9uIn0.UISMvEWLVZyuPuoQfT2t0eaRr1wqRUr6c0vPveZxBDU
+- https://substack.com/app-link/post?publication_id=89120&post_id=195619796&utm_source=substack&isFreemail=false&submitLike=true&token=eyJ1c2VyX2lkIjozMjg3MjAzLCJwb3N0X2lkIjoxOTU2MTk3OTYsInJlYWN0aW9uIjoi4p2kIiwiaWF0IjoxNzc3Mjk0MzM0LCJleHAiOjE3Nzk4ODYzMzQsImlzcyI6InB1Yi04OTEyMCIsInN1YiI6InJlYWN0aW9uIn0.olaS3y4AgTgC-IAI7ch6947URWL7Y8m4_5gTvT15F_w&utm_medium=email&utm_campaign=email-reaction&r=1ygf7
+- https://substack.com/app-link/post?publication_id=89120&post_id=195619796&utm_source=substack&utm_medium=email&isFreemail=false&comments=true&token=eyJ1c2VyX2lkIjozMjg3MjAzLCJwb3N0X2lkIjoxOTU2MTk3OTYsImlhdCI6MTc3NzI5NDMzNCwiZXhwIjoxNzc5ODg2MzM0LCJpc3MiOiJwdWItODkxMjAiLCJzdWIiOiJwb3N0LXJlYWN0aW9uIn0.UISMvEWLVZyuPuoQfT2t0eaRr1wqRUr6c0vPveZxBDU&r=1ygf7&utm_campaign=email-half-magic-comments&action=post-comment&utm_source=substack&utm_medium=email
+- https://substack.com/app-link/post?publication_id=89120&post_id=195619796&utm_source=substack&utm_medium=email&utm_content=share&utm_campaign=email-share&action=share&triggerShare=true&isFreemail=false&r=1ygf7&token=eyJ1c2VyX2lkIjozMjg3MjAzLCJwb3N0X2lkIjoxOTU2MTk3OTYsImlhdCI6MTc3NzI5NDMzNCwiZXhwIjoxNzc5ODg2MzM0LCJpc3MiOiJwdWItODkxMjAiLCJzdWIiOiJwb3N0LXJlYWN0aW9uIn0.UISMvEWLVZyuPuoQfT2t0eaRr1wqRUr6c0vPveZxBDU
+- https://substack.com/redirect/2/eyJlIjoiaHR0cHM6Ly9vcGVuLnN1YnN0YWNrLmNvbS9wdWIvYXN0cmFsY29kZXh0ZW4vcC9vcGVuLXRocmVhZC00MzE_dXRtX3NvdXJjZT1zdWJzdGFjayZ1dG1fbWVkaXVtPWVtYWlsJnV0bV9jYW1wYWlnbj1lbWFpbC1yZXN0YWNrLWNvbW1lbnQmYWN0aW9uPXJlc3RhY2stY29tbWVudCZyPTF5Z2Y3JnRva2VuPWV5SjFjMlZ5WDJsa0lqb3pNamczTWpBekxDSndiM04wWDJsa0lqb3hPVFUyTVRrM09UWXNJbWxoZENJNk1UYzNOekk1TkRNek5Dd2laWGh3SWpveE56YzVPRGcyTXpNMExDSnBjM01pT2lKd2RXSXRPRGt4TWpBaUxDSnpkV0lpT2lKd2IzTjBMWEpsWVdOMGFXOXVJbjAuVUlTTXZFV0xWWnl1UHVvUWZUMnQwZWFScjF3cVJVcjZjMHZQdmVaeEJEVSIsInAiOjE5NTYxOTc5NiwicyI6ODkxMjAsImYiOmZhbHNlLCJ1IjozMjg3MjAzLCJpYXQiOjE3NzcyOTQzMzQsImV4cCI6MjA5Mjg3MDMzNCwiaXNzIjoicHViLTAiLCJzdWIiOiJsaW5rLXJlZGlyZWN0In0.uNMjBOPe11Vybzs7T_CVz2wGXwNR3golI4FTP6ETz3E?&utm_source=substack&utm_medium=email
+- https://open.substack.com/pub/astralcodexten/p/open-thread-431?utm_source=email&redirect=app-store&utm_campaign=email-read-in-app
+- https://substack.com/redirect/2022941c-e3a1-4f13-a91a-9f6d16c37efe?j=eyJ1IjoiMXlnZjcifQ.KOUIeBfeCRzhIwFnKXyQigR4j0VpF-SZzascYhSZunw
+- https://substack.com/redirect/20ef3f90-8495-4d7a-86de-132726d005a9?j=eyJ1IjoiMXlnZjcifQ.KOUIeBfeCRzhIwFnKXyQigR4j0VpF-SZzascYhSZunw
+- https://substack.com/redirect/8ba065e7-dac4-4153-a171-9e798175826a?j=eyJ1IjoiMXlnZjcifQ.KOUIeBfeCRzhIwFnKXyQigR4j0VpF-SZzascYhSZunw
+- https://substack.com/redirect/fc51291b-7d05-4ac9-b0d3-a5e407e3e1c0?j=eyJ1IjoiMXlnZjcifQ.KOUIeBfeCRzhIwFnKXyQigR4j0VpF-SZzascYhSZunw
+- https://substack.com/redirect/c8dee951-f27f-4d0e-b389-a64030d7735d?j=eyJ1IjoiMXlnZjcifQ.KOUIeBfeCRzhIwFnKXyQigR4j0VpF-SZzascYhSZunw
+- https://substack.com/redirect/6040d9a4-7c52-4711-b9ec-3b3530c26680?j=eyJ1IjoiMXlnZjcifQ.KOUIeBfeCRzhIwFnKXyQigR4j0VpF-SZzascYhSZunw
+- https://substack.com/redirect/e27e1a02-1c9e-4504-bafb-02f15a354eac?j=eyJ1IjoiMXlnZjcifQ.KOUIeBfeCRzhIwFnKXyQigR4j0VpF-SZzascYhSZunw
+- https://substack.com/redirect/6cd3b1b9-7e6d-40f2-aacc-181993954240?j=eyJ1IjoiMXlnZjcifQ.KOUIeBfeCRzhIwFnKXyQigR4j0VpF-SZzascYhSZunw
+- https://substack.com/redirect/007a9ce2-3621-4829-a329-26ba7ce286e9?j=eyJ1IjoiMXlnZjcifQ.KOUIeBfeCRzhIwFnKXyQigR4j0VpF-SZzascYhSZunw
+- https://substack.com/redirect/cf48805b-3e17-4ed5-924b-1df4c5b53273?j=eyJ1IjoiMXlnZjcifQ.KOUIeBfeCRzhIwFnKXyQigR4j0VpF-SZzascYhSZunw
+- https://substack.com/redirect/b8c7afe1-c2b7-4d66-90fa-b93ca5981f7e?j=eyJ1IjoiMXlnZjcifQ.KOUIeBfeCRzhIwFnKXyQigR4j0VpF-SZzascYhSZunw
+- https://substack.com/redirect/f73c3d3b-8043-48a3-aed5-fb45093db4c6?j=eyJ1IjoiMXlnZjcifQ.KOUIeBfeCRzhIwFnKXyQigR4j0VpF-SZzascYhSZunw
+- https://substack.com/redirect/2/eyJlIjoiaHR0cHM6Ly93d3cuYXN0cmFsY29kZXh0ZW4uY29tL2FjdGlvbi9kaXNhYmxlX2VtYWlsP3Rva2VuPWV5SjFjMlZ5WDJsa0lqb3pNamczTWpBekxDSndiM04wWDJsa0lqb3hPVFUyTVRrM09UWXNJbWxoZENJNk1UYzNOekk1TkRNek5Dd2laWGh3SWpveE9EQTRPRE13TXpNMExDSnBjM01pT2lKd2RXSXRPRGt4TWpBaUxDSnpkV0lpT2lKa2FYTmhZbXhsWDJWdFlXbHNJbjAuZ0F6dXJzbVV1QWNBWmNaTloyb2lGUEE3UEJGMHd2WVNlcFRNOUNUM1BIWSIsInAiOjE5NTYxOTc5NiwicyI6ODkxMjAsImYiOmZhbHNlLCJ1IjozMjg3MjAzLCJpYXQiOjE3NzcyOTQzMzQsImV4cCI6MjA5Mjg3MDMzNCwiaXNzIjoicHViLTAiLCJzdWIiOiJsaW5rLXJlZGlyZWN0In0.ADzovpUKiSpO5KHqqPo0RYUibNh7HTLfhnZV6rumJC4?
+- https://substack.com/redirect/2/eyJlIjoiaHR0cHM6Ly9zdWJzdGFjay5jb20vc2lnbnVwP3V0bV9zb3VyY2U9c3Vic3RhY2smdXRtX21lZGl1bT1lbWFpbCZ1dG1fY29udGVudD1mb290ZXImdXRtX2NhbXBhaWduPWF1dG9maWxsZWQtZm9vdGVyJmZyZWVTaWdudXBFbWFpbD1jbWF0ZWN1bkBnbWFpbC5jb20mcj0xeWdmNyIsInAiOjE5NTYxOTc5NiwicyI6ODkxMjAsImYiOmZhbHNlLCJ1IjozMjg3MjAzLCJpYXQiOjE3NzcyOTQzMzQsImV4cCI6MjA5Mjg3MDMzNCwiaXNzIjoicHViLTAiLCJzdWIiOiJsaW5rLXJlZGlyZWN0In0.isSECkNOQRebUjdDxOiJSe1u7t7Kn_pNkt9qbavF18I?
