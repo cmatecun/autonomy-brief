@@ -1,0 +1,102 @@
+# Jobs scraping configuration
+# Filters: PM titles (Product Manager, Director of Product, VP of Product, Head of Product, CPO, Product Lead)
+# EXCLUDES: Program Manager, Technical Program Manager (TPM)
+# All seniority levels included
+# All locations included (display location in output)
+
+companies:
+  - name: Waymo
+    ats: greenhouse
+    slug: waymo
+    endpoint: https://boards-api.greenhouse.io/v1/boards/waymo/jobs
+
+  - name: Zoox
+    ats: lever
+    slug: zoox
+    endpoint: https://api.lever.co/v0/postings/zoox?mode=json
+
+  - name: Tesla
+    ats: scrape
+    endpoint: https://www.tesla.com/careers/search/?type=2&site=US
+    notes: Cloudflare blocks API, requires HTML scrape
+
+  - name: Nuro
+    ats: greenhouse
+    slug: nuro
+    endpoint: https://boards-api.greenhouse.io/v1/boards/nuro/jobs
+
+  - name: NVIDIA
+    ats: workday
+    endpoint: https://nvidia.wd5.myworkdayjobs.com/wday/cxs/nvidia/NVIDIAExternalCareerSite/jobs
+    notes: POST endpoint with searchText filter
+
+  - name: Uber
+    ats: scrape
+    endpoint: https://www.uber.com/us/en/careers/list/?function=Product
+    notes: Custom system, may be blocked - try fetching HTML
+
+  - name: DoorDash
+    ats: greenhouse
+    slug: doordashusa
+    endpoint: https://boards-api.greenhouse.io/v1/boards/doordashusa/jobs
+
+  - name: Applied Intuition
+    ats: greenhouse
+    slug: appliedintuition
+    endpoint: https://boards-api.greenhouse.io/v1/boards/appliedintuition/jobs
+
+  - name: Rivian
+    ats: scrape
+    endpoint: https://careers.rivian.com/careers-home/jobs?keywords=product%20manager
+    notes: Custom careers portal, HTML scrape
+
+  - name: Kodiak Robotics
+    ats: greenhouse
+    slug: kodiak
+    endpoint: https://boards-api.greenhouse.io/v1/boards/kodiak/jobs
+
+  - name: Joby Aviation
+    ats: scrape
+    endpoint: https://www.jobyaviation.com/careers
+    notes: Custom HTML, scrape page
+
+  - name: WeRide
+    ats: lever
+    slug: weride
+    endpoint: https://api.lever.co/v0/postings/weride?mode=json
+
+  - name: Anduril
+    ats: greenhouse
+    slug: andurilindustries
+    endpoint: https://boards-api.greenhouse.io/v1/boards/andurilindustries/jobs
+
+# Title filter rules
+title_filter:
+  include_keywords:
+    - "Product Manager"
+    - "Senior Product Manager"
+    - "Staff Product Manager"
+    - "Principal Product Manager"
+    - "Lead Product Manager"
+    - "Director of Product"
+    - "Director, Product"
+    - "VP of Product"
+    - "VP, Product"
+    - "Head of Product"
+    - "Chief Product Officer"
+    - "CPO"
+    - "Product Lead"
+    - "Group Product Manager"
+    - "Senior Director of Product"
+
+  # Exclude these — Program Manager is NOT a Product Manager
+  exclude_keywords:
+    - "Program Manager"
+    - "Technical Program Manager"
+    - "TPM"
+    - "Project Manager"
+    - "Product Marketing Manager"  # different role
+    - "Product Designer"
+    - "Product Operations Manager"  # debatable, leaving out for now
+    - "Product Specialist"
+    - "Product Analyst"
