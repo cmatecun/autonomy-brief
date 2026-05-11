@@ -1,0 +1,43 @@
+---
+source: astral-codex-ten
+from: Astral Codex Ten <astralcodexten@substack.com>
+subject: "Open Thread 433"
+date: 2026-05-11T08:43:51.000Z
+extracted: 2026-05-11T13:08:15.058Z
+---
+
+# Open Thread 433
+
+**From:** Astral Codex Ten <astralcodexten@substack.com>  
+**Date:** 2026-05-11T08:43:51.000Z
+
+---
+
+View this post on the web at https://www.astralcodexten.com/p/open-thread-433
+
+This is the weekly visible open thread. Post about anything you want, ask random questions, whatever. ACX has an unofficial subreddit [ https://substack.com/redirect/f9672f6e-09dc-448f-9f56-809702a4cf34?j=eyJ1IjoiMXlnZjcifQ.KOUIeBfeCRzhIwFnKXyQigR4j0VpF-SZzascYhSZunw ], Discord [ https://substack.com/redirect/e7b33fe3-009d-4ca9-9e17-fb7d64285b3a?j=eyJ1IjoiMXlnZjcifQ.KOUIeBfeCRzhIwFnKXyQigR4j0VpF-SZzascYhSZunw ], and bulletin board [ https://substack.com/redirect/39c91c8e-e979-4ea6-b947-e4739617de9b?j=eyJ1IjoiMXlnZjcifQ.KOUIeBfeCRzhIwFnKXyQigR4j0VpF-SZzascYhSZunw ], and in-person meetups around the world [ https://substack.com/redirect/29cffa59-4161-47b0-8e1f-fb82256e52d5?j=eyJ1IjoiMXlnZjcifQ.KOUIeBfeCRzhIwFnKXyQigR4j0VpF-SZzascYhSZunw ]. Most content is free, some is subscriber only; you can subscribe here [ https://substack.com/redirect/9854cd32-ea97-4413-9fff-865ba99e50d8?j=eyJ1IjoiMXlnZjcifQ.KOUIeBfeCRzhIwFnKXyQigR4j0VpF-SZzascYhSZunw ]. Also:
+1: US Congress is considering an agriculture bill which would revoke all existing state animal welfare protections (for example, it would revoke California’s law banning farmers from keeping pigs in crates too small to turn around it for their entire lives). The animal welfare people are calling it “the most important legislative threat to farmed animal welfare in US history”. If you want to learn more, including how to contact your Senator, see this post [ https://substack.com/redirect/bdd6832a-a8fb-46d1-9c30-7fab0f8219cb?j=eyJ1IjoiMXlnZjcifQ.KOUIeBfeCRzhIwFnKXyQigR4j0VpF-SZzascYhSZunw ].
+2: Former book review contest winner Ethan Ludwin-Peery is a professor at Hampshire College, which he describes as “the greatest model of higher education ever invented, [producing] a higher proportion of research doctorates than almost any other school in the nation.” Unfortunately, the administration made some boneheaded financial decisions and now it’s in the process of shutting down. Ethan would like someone to save it. He thinks it would take $30-$60 million to buy the campus outright, plus another $40 million to operate it for the first few years until it regains a sustainable funding model. He points out that building a good college from scratch nowadays is near-impossible, and this represents a once-in-a-lifetime chance to acquire one at fire-sale prices. If you’re a billionaire who wants to prove some theory about secondary education, or a smaller investor who wants to join a coalition, read Ethan’s plea to save Hampshire [ https://substack.com/redirect/dcba7fb5-95e0-4af0-83cd-e5a043bc5a42?j=eyJ1IjoiMXlnZjcifQ.KOUIeBfeCRzhIwFnKXyQigR4j0VpF-SZzascYhSZunw ], then email him at ethanludwinpeery@gmail.com.
+
+Unsubscribe https://substack.com/redirect/2/eyJlIjoiaHR0cHM6Ly93d3cuYXN0cmFsY29kZXh0ZW4uY29tL2FjdGlvbi9kaXNhYmxlX2VtYWlsP3Rva2VuPWV5SjFjMlZ5WDJsa0lqb3pNamczTWpBekxDSndiM04wWDJsa0lqb3hPVGN4T0RZNU1qVXNJbWxoZENJNk1UYzNPRFE0T1RFeU5Td2laWGh3SWpveE9ERXdNREkxTVRJMUxDSnBjM01pT2lKd2RXSXRPRGt4TWpBaUxDSnpkV0lpT2lKa2FYTmhZbXhsWDJWdFlXbHNJbjAuaUFyWndKU2xXbW05RzREMUFEY2xSUl9HUGduM3ZycjVJV3Qzd1liaTF5WSIsInAiOjE5NzE4NjkyNSwicyI6ODkxMjAsImYiOmZhbHNlLCJ1IjozMjg3MjAzLCJpYXQiOjE3Nzg0ODkxMjUsImV4cCI6MjA5NDA2NTEyNSwiaXNzIjoicHViLTAiLCJzdWIiOiJsaW5rLXJlZGlyZWN0In0.QzFyKFezi342VllJDQhmLcP4qbCdKjQ2GMIBQD4N_Rg?
+
+---
+
+## Links found in email
+
+- https://substack.com/redirect/2/eyJlIjoiaHR0cHM6Ly93d3cuYXN0cmFsY29kZXh0ZW4uY29tL3N1YnNjcmliZT91dG1fc291cmNlPWVtYWlsJnV0bV9jYW1wYWlnbj1lbWFpbC1zdWJzY3JpYmUmcj0xeWdmNyZuZXh0PWh0dHBzJTNBJTJGJTJGd3d3LmFzdHJhbGNvZGV4dGVuLmNvbSUyRnAlMkZvcGVuLXRocmVhZC00MzMiLCJwIjoxOTcxODY5MjUsInMiOjg5MTIwLCJmIjpmYWxzZSwidSI6MzI4NzIwMywiaWF0IjoxNzc4NDg5MTI1LCJleHAiOjIwOTQwNjUxMjUsImlzcyI6InB1Yi0wIiwic3ViIjoibGluay1yZWRpcmVjdCJ9.FbLRUMt1dLMlKqwUD50xT2gcStvhhLLbVyrKmHIcvus?
+- https://substack.com/app-link/post?publication_id=89120&post_id=197186925&utm_source=post-email-title&utm_campaign=email-post-title&isFreemail=false&r=1ygf7&token=eyJ1c2VyX2lkIjozMjg3MjAzLCJwb3N0X2lkIjoxOTcxODY5MjUsImlhdCI6MTc3ODQ4OTEyNSwiZXhwIjoxNzgxMDgxMTI1LCJpc3MiOiJwdWItODkxMjAiLCJzdWIiOiJwb3N0LXJlYWN0aW9uIn0.Bgq0zlb227u8HNfsyp6AzHQWQZ88brzjuZvQy_tM1lY
+- https://substack.com/app-link/post?publication_id=89120&post_id=197186925&utm_source=substack&isFreemail=false&submitLike=true&token=eyJ1c2VyX2lkIjozMjg3MjAzLCJwb3N0X2lkIjoxOTcxODY5MjUsInJlYWN0aW9uIjoi4p2kIiwiaWF0IjoxNzc4NDg5MTI1LCJleHAiOjE3ODEwODExMjUsImlzcyI6InB1Yi04OTEyMCIsInN1YiI6InJlYWN0aW9uIn0.XY7RAfY1SFxIYWl9XLOQKlNDzScEOAjBtfxbVA6rHUU&utm_medium=email&utm_campaign=email-reaction&r=1ygf7
+- https://substack.com/app-link/post?publication_id=89120&post_id=197186925&utm_source=substack&utm_medium=email&isFreemail=false&comments=true&token=eyJ1c2VyX2lkIjozMjg3MjAzLCJwb3N0X2lkIjoxOTcxODY5MjUsImlhdCI6MTc3ODQ4OTEyNSwiZXhwIjoxNzgxMDgxMTI1LCJpc3MiOiJwdWItODkxMjAiLCJzdWIiOiJwb3N0LXJlYWN0aW9uIn0.Bgq0zlb227u8HNfsyp6AzHQWQZ88brzjuZvQy_tM1lY&r=1ygf7&utm_campaign=email-half-magic-comments&action=post-comment&utm_source=substack&utm_medium=email
+- https://substack.com/app-link/post?publication_id=89120&post_id=197186925&utm_source=substack&utm_medium=email&utm_content=share&utm_campaign=email-share&action=share&triggerShare=true&isFreemail=false&r=1ygf7&token=eyJ1c2VyX2lkIjozMjg3MjAzLCJwb3N0X2lkIjoxOTcxODY5MjUsImlhdCI6MTc3ODQ4OTEyNSwiZXhwIjoxNzgxMDgxMTI1LCJpc3MiOiJwdWItODkxMjAiLCJzdWIiOiJwb3N0LXJlYWN0aW9uIn0.Bgq0zlb227u8HNfsyp6AzHQWQZ88brzjuZvQy_tM1lY
+- https://substack.com/redirect/2/eyJlIjoiaHR0cHM6Ly9vcGVuLnN1YnN0YWNrLmNvbS9wdWIvYXN0cmFsY29kZXh0ZW4vcC9vcGVuLXRocmVhZC00MzM_dXRtX3NvdXJjZT1zdWJzdGFjayZ1dG1fbWVkaXVtPWVtYWlsJnV0bV9jYW1wYWlnbj1lbWFpbC1yZXN0YWNrLWNvbW1lbnQmYWN0aW9uPXJlc3RhY2stY29tbWVudCZyPTF5Z2Y3JnRva2VuPWV5SjFjMlZ5WDJsa0lqb3pNamczTWpBekxDSndiM04wWDJsa0lqb3hPVGN4T0RZNU1qVXNJbWxoZENJNk1UYzNPRFE0T1RFeU5Td2laWGh3SWpveE56Z3hNRGd4TVRJMUxDSnBjM01pT2lKd2RXSXRPRGt4TWpBaUxDSnpkV0lpT2lKd2IzTjBMWEpsWVdOMGFXOXVJbjAuQmdxMHpsYjIyN3U4SE5mc3lwNkF6SFFXUVo4OGJyemp1WnZReV90TTFsWSIsInAiOjE5NzE4NjkyNSwicyI6ODkxMjAsImYiOmZhbHNlLCJ1IjozMjg3MjAzLCJpYXQiOjE3Nzg0ODkxMjUsImV4cCI6MjA5NDA2NTEyNSwiaXNzIjoicHViLTAiLCJzdWIiOiJsaW5rLXJlZGlyZWN0In0.lK5GUqd0eJb39Uu4StP3fTh2NjD4A0Q-kwaIXraOLnQ?&utm_source=substack&utm_medium=email
+- https://open.substack.com/pub/astralcodexten/p/open-thread-433?utm_source=email&redirect=app-store&utm_campaign=email-read-in-app
+- https://substack.com/redirect/f9672f6e-09dc-448f-9f56-809702a4cf34?j=eyJ1IjoiMXlnZjcifQ.KOUIeBfeCRzhIwFnKXyQigR4j0VpF-SZzascYhSZunw
+- https://substack.com/redirect/e7b33fe3-009d-4ca9-9e17-fb7d64285b3a?j=eyJ1IjoiMXlnZjcifQ.KOUIeBfeCRzhIwFnKXyQigR4j0VpF-SZzascYhSZunw
+- https://substack.com/redirect/39c91c8e-e979-4ea6-b947-e4739617de9b?j=eyJ1IjoiMXlnZjcifQ.KOUIeBfeCRzhIwFnKXyQigR4j0VpF-SZzascYhSZunw
+- https://substack.com/redirect/29cffa59-4161-47b0-8e1f-fb82256e52d5?j=eyJ1IjoiMXlnZjcifQ.KOUIeBfeCRzhIwFnKXyQigR4j0VpF-SZzascYhSZunw
+- https://substack.com/redirect/9854cd32-ea97-4413-9fff-865ba99e50d8?j=eyJ1IjoiMXlnZjcifQ.KOUIeBfeCRzhIwFnKXyQigR4j0VpF-SZzascYhSZunw
+- https://substack.com/redirect/bdd6832a-a8fb-46d1-9c30-7fab0f8219cb?j=eyJ1IjoiMXlnZjcifQ.KOUIeBfeCRzhIwFnKXyQigR4j0VpF-SZzascYhSZunw
+- https://substack.com/redirect/dcba7fb5-95e0-4af0-83cd-e5a043bc5a42?j=eyJ1IjoiMXlnZjcifQ.KOUIeBfeCRzhIwFnKXyQigR4j0VpF-SZzascYhSZunw
+- https://substack.com/redirect/2/eyJlIjoiaHR0cHM6Ly93d3cuYXN0cmFsY29kZXh0ZW4uY29tL2FjdGlvbi9kaXNhYmxlX2VtYWlsP3Rva2VuPWV5SjFjMlZ5WDJsa0lqb3pNamczTWpBekxDSndiM04wWDJsa0lqb3hPVGN4T0RZNU1qVXNJbWxoZENJNk1UYzNPRFE0T1RFeU5Td2laWGh3SWpveE9ERXdNREkxTVRJMUxDSnBjM01pT2lKd2RXSXRPRGt4TWpBaUxDSnpkV0lpT2lKa2FYTmhZbXhsWDJWdFlXbHNJbjAuaUFyWndKU2xXbW05RzREMUFEY2xSUl9HUGduM3ZycjVJV3Qzd1liaTF5WSIsInAiOjE5NzE4NjkyNSwicyI6ODkxMjAsImYiOmZhbHNlLCJ1IjozMjg3MjAzLCJpYXQiOjE3Nzg0ODkxMjUsImV4cCI6MjA5NDA2NTEyNSwiaXNzIjoicHViLTAiLCJzdWIiOiJsaW5rLXJlZGlyZWN0In0.QzFyKFezi342VllJDQhmLcP4qbCdKjQ2GMIBQD4N_Rg?
+- https://substack.com/redirect/2/eyJlIjoiaHR0cHM6Ly9zdWJzdGFjay5jb20vc2lnbnVwP3V0bV9zb3VyY2U9c3Vic3RhY2smdXRtX21lZGl1bT1lbWFpbCZ1dG1fY29udGVudD1mb290ZXImdXRtX2NhbXBhaWduPWF1dG9maWxsZWQtZm9vdGVyJmZyZWVTaWdudXBFbWFpbD1jbWF0ZWN1bkBnbWFpbC5jb20mcj0xeWdmNyIsInAiOjE5NzE4NjkyNSwicyI6ODkxMjAsImYiOmZhbHNlLCJ1IjozMjg3MjAzLCJpYXQiOjE3Nzg0ODkxMjUsImV4cCI6MjA5NDA2NTEyNSwiaXNzIjoicHViLTAiLCJzdWIiOiJsaW5rLXJlZGlyZWN0In0.pDQ9EBrJWTimBF69sn7-rvpLeo7m0VDdC4r439MVMr0?
