@@ -66,4 +66,22 @@ jobs:
           DATE=$(date -u +%Y-%m-%d)
           git add digests/ data/
           git commit -m "Weekly AV digest: $DATE"
+
+          # Try to push. If rejected (another concurrent run beat us),
+          # check whether today's digest already exists on remote and exit cleanly.
+          if git push 2>&1; then
+            echo "Pushed successfully."
+            exit 0
+          fi
+
+          echo "Push was rejected. Checking if another run already pushed today's digest..."
+          git fetch origin main
+          if git ls-tree -r origin/main --name-only | grep -qx "digests/weekly-av/${DATE}.md"; then
+            echo "✓ Remote already contains digests/weekly-av/${DATE}.md — another run beat us. Exiting cleanly (not a real failure)."
+            exit 0
+          fi
+
+          echo "Push failed and remote does not have today's digest. Attempting rebase + push as fallback..."
+          git pull --rebase origin main
           git push
+          echo "Recovered with rebase + push."
