@@ -1,0 +1,41 @@
+---
+source: astral-codex-ten
+from: Astral Codex Ten <astralcodexten@substack.com>
+subject: "Choose Book Review Finalists 2026"
+date: 2026-06-03T19:57:08.000Z
+extracted: 2026-06-04T13:08:20.051Z
+---
+
+# Choose Book Review Finalists 2026
+
+**From:** Astral Codex Ten <astralcodexten@substack.com>  
+**Date:** 2026-06-03T19:57:08.000Z
+
+---
+
+View this post on the web at https://www.astralcodexten.com/p/choose-book-review-finalists-2026
+
+It's time to narrow the 162 entries in the Book Review Contest [ https://substack.com/redirect/01c54730-873a-42ce-abda-ac159e99d1e5?j=eyJ1IjoiMXlnZjcifQ.KOUIeBfeCRzhIwFnKXyQigR4j0VpF-SZzascYhSZunw ] to about a dozen finalists. I can't read 162 reviews alone, so I need your help. Please pick as many as you have time for, read them, and rate them 1-10.
+This year, Rob Ennals has stepped up and built a fancy website [ https://substack.com/redirect/40bea777-8f18-4086-b922-cee6e95d4be9?j=eyJ1IjoiMXlnZjcifQ.KOUIeBfeCRzhIwFnKXyQigR4j0VpF-SZzascYhSZunw ] that makes this easy. Rob is a software engineer who blogs at Messy Progress [ https://substack.com/redirect/d8ce5f39-fa28-4428-a688-3444c749f69f?j=eyJ1IjoiMXlnZjcifQ.KOUIeBfeCRzhIwFnKXyQigR4j0VpF-SZzascYhSZunw ] and works on interactive tutorials to help people understand AI [ https://substack.com/redirect/0ba09265-fa03-4416-b385-20c71c2ca601?j=eyJ1IjoiMXlnZjcifQ.KOUIeBfeCRzhIwFnKXyQigR4j0VpF-SZzascYhSZunw ]. Many people offered to help, but Rob offered at the exact moment I was fretting about this and I took him up on it; thanks to all of you, but especially to him.
+Again, go here to read and rate the reviews [ https://substack.com/redirect/40bea777-8f18-4086-b922-cee6e95d4be9?j=eyJ1IjoiMXlnZjcifQ.KOUIeBfeCRzhIwFnKXyQigR4j0VpF-SZzascYhSZunw ] (they start off displayed randomly so that not everyone rates the same ones, but you can switch to alphabetic if you prefer). You have until June 15.
+
+Unsubscribe https://substack.com/redirect/2/eyJlIjoiaHR0cHM6Ly93d3cuYXN0cmFsY29kZXh0ZW4uY29tL2FjdGlvbi9kaXNhYmxlX2VtYWlsP3Rva2VuPWV5SjFjMlZ5WDJsa0lqb3pNamczTWpBekxDSndiM04wWDJsa0lqb3lNREExTVRBMU1UVXNJbWxoZENJNk1UYzRNRFV4TmpjM01Dd2laWGh3SWpveE9ERXlNRFV5Tnpjd0xDSnBjM01pT2lKd2RXSXRPRGt4TWpBaUxDSnpkV0lpT2lKa2FYTmhZbXhsWDJWdFlXbHNJbjAuYTNUcWtTLXk0VllHM3R2M0ZtQ1Zia0FGaGtQbll6RDhDTTNHZkJvXzVfOCIsInAiOjIwMDUxMDUxNSwicyI6ODkxMjAsImYiOmZhbHNlLCJ1IjozMjg3MjAzLCJpYXQiOjE3ODA1MTY3NzAsImV4cCI6MjA5NjA5Mjc3MCwiaXNzIjoicHViLTAiLCJzdWIiOiJsaW5rLXJlZGlyZWN0In0.zI513e0BRSj_eha4FIuqipYLANsyT911IilmNkep34g?
+
+---
+
+## Links found in email
+
+- https://substack.com/redirect/2/eyJlIjoiaHR0cHM6Ly93d3cuYXN0cmFsY29kZXh0ZW4uY29tL3N1YnNjcmliZT91dG1fc291cmNlPWVtYWlsJnV0bV9jYW1wYWlnbj1lbWFpbC1zdWJzY3JpYmUmcj0xeWdmNyZuZXh0PWh0dHBzJTNBJTJGJTJGd3d3LmFzdHJhbGNvZGV4dGVuLmNvbSUyRnAlMkZjaG9vc2UtYm9vay1yZXZpZXctZmluYWxpc3RzLTIwMjYiLCJwIjoyMDA1MTA1MTUsInMiOjg5MTIwLCJmIjpmYWxzZSwidSI6MzI4NzIwMywiaWF0IjoxNzgwNTE2NzcwLCJleHAiOjIwOTYwOTI3NzAsImlzcyI6InB1Yi0wIiwic3ViIjoibGluay1yZWRpcmVjdCJ9.0t4sR-CDNcCbq81RN81ZU-iIPgnl1vM5APS0PgJX33A?
+- https://substack.com/app-link/post?publication_id=89120&post_id=200510515&utm_source=post-email-title&utm_campaign=email-post-title&isFreemail=false&r=1ygf7&token=eyJ1c2VyX2lkIjozMjg3MjAzLCJwb3N0X2lkIjoyMDA1MTA1MTUsImlhdCI6MTc4MDUxNjc3MCwiZXhwIjoxNzgzMTA4NzcwLCJpc3MiOiJwdWItODkxMjAiLCJzdWIiOiJwb3N0LXJlYWN0aW9uIn0.mgic0EF3i3OTcEtSNP-OHVPaOFEICeVR2IBOaANJW78
+- https://substack.com/@astralcodexten
+- https://substack.com/app-link/post?publication_id=89120&post_id=200510515&utm_source=substack&isFreemail=false&submitLike=true&token=eyJ1c2VyX2lkIjozMjg3MjAzLCJwb3N0X2lkIjoyMDA1MTA1MTUsInJlYWN0aW9uIjoi4p2kIiwiaWF0IjoxNzgwNTE2NzcwLCJleHAiOjE3ODMxMDg3NzAsImlzcyI6InB1Yi04OTEyMCIsInN1YiI6InJlYWN0aW9uIn0.KMDdklw6PAeAGpz7dMyXc9WEvjocPySCqSlPaqD6WjU&utm_medium=email&utm_campaign=email-reaction&r=1ygf7
+- https://substack.com/app-link/post?publication_id=89120&post_id=200510515&utm_source=substack&utm_medium=email&isFreemail=false&comments=true&token=eyJ1c2VyX2lkIjozMjg3MjAzLCJwb3N0X2lkIjoyMDA1MTA1MTUsImlhdCI6MTc4MDUxNjc3MCwiZXhwIjoxNzgzMTA4NzcwLCJpc3MiOiJwdWItODkxMjAiLCJzdWIiOiJwb3N0LXJlYWN0aW9uIn0.mgic0EF3i3OTcEtSNP-OHVPaOFEICeVR2IBOaANJW78&r=1ygf7&utm_campaign=email-half-magic-comments&action=post-comment&utm_source=substack&utm_medium=email
+- https://substack.com/app-link/post?publication_id=89120&post_id=200510515&utm_source=substack&utm_medium=email&utm_content=share&utm_campaign=email-share&action=share&triggerShare=true&isFreemail=false&r=1ygf7&token=eyJ1c2VyX2lkIjozMjg3MjAzLCJwb3N0X2lkIjoyMDA1MTA1MTUsImlhdCI6MTc4MDUxNjc3MCwiZXhwIjoxNzgzMTA4NzcwLCJpc3MiOiJwdWItODkxMjAiLCJzdWIiOiJwb3N0LXJlYWN0aW9uIn0.mgic0EF3i3OTcEtSNP-OHVPaOFEICeVR2IBOaANJW78
+- https://substack.com/redirect/2/eyJlIjoiaHR0cHM6Ly9vcGVuLnN1YnN0YWNrLmNvbS9wdWIvYXN0cmFsY29kZXh0ZW4vcC9jaG9vc2UtYm9vay1yZXZpZXctZmluYWxpc3RzLTIwMjY_dXRtX3NvdXJjZT1zdWJzdGFjayZ1dG1fbWVkaXVtPWVtYWlsJnV0bV9jYW1wYWlnbj1lbWFpbC1yZXN0YWNrLWNvbW1lbnQmYWN0aW9uPXJlc3RhY2stY29tbWVudCZyPTF5Z2Y3JnRva2VuPWV5SjFjMlZ5WDJsa0lqb3pNamczTWpBekxDSndiM04wWDJsa0lqb3lNREExTVRBMU1UVXNJbWxoZENJNk1UYzRNRFV4TmpjM01Dd2laWGh3SWpveE56Z3pNVEE0Tnpjd0xDSnBjM01pT2lKd2RXSXRPRGt4TWpBaUxDSnpkV0lpT2lKd2IzTjBMWEpsWVdOMGFXOXVJbjAubWdpYzBFRjNpM09UY0V0U05QLU9IVlBhT0ZFSUNlVlIySUJPYUFOSlc3OCIsInAiOjIwMDUxMDUxNSwicyI6ODkxMjAsImYiOmZhbHNlLCJ1IjozMjg3MjAzLCJpYXQiOjE3ODA1MTY3NzAsImV4cCI6MjA5NjA5Mjc3MCwiaXNzIjoicHViLTAiLCJzdWIiOiJsaW5rLXJlZGlyZWN0In0.EVCf9AhTmLAhDVPcb7xDGRggdn6PIs_5z2L_EA9ezJY?&utm_source=substack&utm_medium=email
+- https://open.substack.com/pub/astralcodexten/p/choose-book-review-finalists-2026?utm_source=email&redirect=app-store&utm_campaign=email-read-in-app
+- https://substack.com/redirect/01c54730-873a-42ce-abda-ac159e99d1e5?j=eyJ1IjoiMXlnZjcifQ.KOUIeBfeCRzhIwFnKXyQigR4j0VpF-SZzascYhSZunw
+- https://substack.com/redirect/40bea777-8f18-4086-b922-cee6e95d4be9?j=eyJ1IjoiMXlnZjcifQ.KOUIeBfeCRzhIwFnKXyQigR4j0VpF-SZzascYhSZunw
+- https://substack.com/redirect/d8ce5f39-fa28-4428-a688-3444c749f69f?j=eyJ1IjoiMXlnZjcifQ.KOUIeBfeCRzhIwFnKXyQigR4j0VpF-SZzascYhSZunw
+- https://substack.com/redirect/0ba09265-fa03-4416-b385-20c71c2ca601?j=eyJ1IjoiMXlnZjcifQ.KOUIeBfeCRzhIwFnKXyQigR4j0VpF-SZzascYhSZunw
+- https://substack.com/redirect/2/eyJlIjoiaHR0cHM6Ly93d3cuYXN0cmFsY29kZXh0ZW4uY29tL2FjdGlvbi9kaXNhYmxlX2VtYWlsP3Rva2VuPWV5SjFjMlZ5WDJsa0lqb3pNamczTWpBekxDSndiM04wWDJsa0lqb3lNREExTVRBMU1UVXNJbWxoZENJNk1UYzRNRFV4TmpjM01Dd2laWGh3SWpveE9ERXlNRFV5Tnpjd0xDSnBjM01pT2lKd2RXSXRPRGt4TWpBaUxDSnpkV0lpT2lKa2FYTmhZbXhsWDJWdFlXbHNJbjAuYTNUcWtTLXk0VllHM3R2M0ZtQ1Zia0FGaGtQbll6RDhDTTNHZkJvXzVfOCIsInAiOjIwMDUxMDUxNSwicyI6ODkxMjAsImYiOmZhbHNlLCJ1IjozMjg3MjAzLCJpYXQiOjE3ODA1MTY3NzAsImV4cCI6MjA5NjA5Mjc3MCwiaXNzIjoicHViLTAiLCJzdWIiOiJsaW5rLXJlZGlyZWN0In0.zI513e0BRSj_eha4FIuqipYLANsyT911IilmNkep34g?
+- https://substack.com/redirect/2/eyJlIjoiaHR0cHM6Ly9zdWJzdGFjay5jb20vc2lnbnVwP3V0bV9zb3VyY2U9c3Vic3RhY2smdXRtX21lZGl1bT1lbWFpbCZ1dG1fY29udGVudD1mb290ZXImdXRtX2NhbXBhaWduPWF1dG9maWxsZWQtZm9vdGVyJmZyZWVTaWdudXBFbWFpbD1jbWF0ZWN1bkBnbWFpbC5jb20mcj0xeWdmNyIsInAiOjIwMDUxMDUxNSwicyI6ODkxMjAsImYiOmZhbHNlLCJ1IjozMjg3MjAzLCJpYXQiOjE3ODA1MTY3NzAsImV4cCI6MjA5NjA5Mjc3MCwiaXNzIjoicHViLTAiLCJzdWIiOiJsaW5rLXJlZGlyZWN0In0.M0bPh5oSlconu6LZTN0MiZvu9z3tmdNDP3EVi5-jxEI?
