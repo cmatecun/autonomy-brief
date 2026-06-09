@@ -1,0 +1,41 @@
+---
+source: astral-codex-ten
+from: Astral Codex Ten <astralcodexten@substack.com>
+subject: "Berkeley Meetup This Wednesday"
+date: 2026-06-08T23:12:38.000Z
+extracted: 2026-06-09T13:08:16.472Z
+---
+
+# Berkeley Meetup This Wednesday
+
+**From:** Astral Codex Ten <astralcodexten@substack.com>  
+**Date:** 2026-06-08T23:12:38.000Z
+
+---
+
+View this post on the web at https://www.astralcodexten.com/p/berkeley-meetup-this-wednesday-77b
+
+Why: We’re having our usual round of spring meetups [ https://substack.com/redirect/4de7c13a-9b52-4fdb-9e25-5f27a88a6903?j=eyJ1IjoiMXlnZjcifQ.KOUIeBfeCRzhIwFnKXyQigR4j0VpF-SZzascYhSZunw ], and Berkeley is one of them. I’m signal-boosting this one because it’s usually our biggest, and because I plan to be there. I’ll do a Q&A if the sound system is up for it.
+When: Wednesday, June 10, 6:30 PM, probably until 9:30 or so.
+Where: Lighthaven [ https://substack.com/redirect/c14df26f-e3df-4d90-873a-80f412c99670?j=eyJ1IjoiMXlnZjcifQ.KOUIeBfeCRzhIwFnKXyQigR4j0VpF-SZzascYhSZunw ], 2740 Telegraph Ave, Berkeley.
+Who: Anyone who wants. You don’t have to RSVP, pay money, or know anything about the blog. Please feel free to come even if you feel awkward about it, even if you’re not “the typical ACX reader”, even if you’re worried people won’t like you, etc. You’re unlikely to be an outlier, regardless of whether you’re very weird, very normie, or somewhere in between. 
+Lots of interesting people are in town this week for the upcoming Manifest conference on prediction markets, and I hope to see some of them there.
+
+Unsubscribe https://substack.com/redirect/2/eyJlIjoiaHR0cHM6Ly93d3cuYXN0cmFsY29kZXh0ZW4uY29tL2FjdGlvbi9kaXNhYmxlX2VtYWlsP3Rva2VuPWV5SjFjMlZ5WDJsa0lqb3pNamczTWpBekxDSndiM04wWDJsa0lqb3lNREV5TWpJNU5URXNJbWxoZENJNk1UYzRNRGsyTURRME9Td2laWGh3SWpveE9ERXlORGsyTkRRNUxDSnBjM01pT2lKd2RXSXRPRGt4TWpBaUxDSnpkV0lpT2lKa2FYTmhZbXhsWDJWdFlXbHNJbjAuX213Nk81aWstRlZhSE94cDVVRV9hYXh5eXhBZVl6MWgzRllFRlQ1NGgzRSIsInAiOjIwMTIyMjk1MSwicyI6ODkxMjAsImYiOmZhbHNlLCJ1IjozMjg3MjAzLCJpYXQiOjE3ODA5NjA0NDksImV4cCI6MjA5NjUzNjQ0OSwiaXNzIjoicHViLTAiLCJzdWIiOiJsaW5rLXJlZGlyZWN0In0.2_sU9UgnpE0cOm3QaNNVhlriC0rrDezjxxhpXqcKKfw?
+
+---
+
+## Links found in email
+
+- https://substack.com/redirect/2/eyJlIjoiaHR0cHM6Ly93d3cuYXN0cmFsY29kZXh0ZW4uY29tL3N1YnNjcmliZT91dG1fc291cmNlPWVtYWlsJnV0bV9jYW1wYWlnbj1lbWFpbC1zdWJzY3JpYmUmcj0xeWdmNyZuZXh0PWh0dHBzJTNBJTJGJTJGd3d3LmFzdHJhbGNvZGV4dGVuLmNvbSUyRnAlMkZiZXJrZWxleS1tZWV0dXAtdGhpcy13ZWRuZXNkYXktNzdiIiwicCI6MjAxMjIyOTUxLCJzIjo4OTEyMCwiZiI6ZmFsc2UsInUiOjMyODcyMDMsImlhdCI6MTc4MDk2MDQ0OSwiZXhwIjoyMDk2NTM2NDQ5LCJpc3MiOiJwdWItMCIsInN1YiI6ImxpbmstcmVkaXJlY3QifQ.DTWq4OfzspOelmxv4DM6BryhpyF2UDv9kZeGDvFiCTU?
+- https://substack.com/app-link/post?publication_id=89120&post_id=201222951&utm_source=post-email-title&utm_campaign=email-post-title&isFreemail=false&r=1ygf7&token=eyJ1c2VyX2lkIjozMjg3MjAzLCJwb3N0X2lkIjoyMDEyMjI5NTEsImlhdCI6MTc4MDk2MDQ0OSwiZXhwIjoxNzgzNTUyNDQ5LCJpc3MiOiJwdWItODkxMjAiLCJzdWIiOiJwb3N0LXJlYWN0aW9uIn0.csRYhaTzlbq94AozLNUgonzISxcDzObyBWROaL4DJ8w
+- https://substack.com/@astralcodexten
+- https://substack.com/app-link/post?publication_id=89120&post_id=201222951&utm_source=substack&isFreemail=false&submitLike=true&token=eyJ1c2VyX2lkIjozMjg3MjAzLCJwb3N0X2lkIjoyMDEyMjI5NTEsInJlYWN0aW9uIjoi4p2kIiwiaWF0IjoxNzgwOTYwNDQ5LCJleHAiOjE3ODM1NTI0NDksImlzcyI6InB1Yi04OTEyMCIsInN1YiI6InJlYWN0aW9uIn0.HcKqwg0cHTlfuqXLpqMo8aQT2io-fP4orw5mOC_fxGg&utm_medium=email&utm_campaign=email-reaction&r=1ygf7
+- https://substack.com/app-link/post?publication_id=89120&post_id=201222951&utm_source=substack&utm_medium=email&isFreemail=false&comments=true&token=eyJ1c2VyX2lkIjozMjg3MjAzLCJwb3N0X2lkIjoyMDEyMjI5NTEsImlhdCI6MTc4MDk2MDQ0OSwiZXhwIjoxNzgzNTUyNDQ5LCJpc3MiOiJwdWItODkxMjAiLCJzdWIiOiJwb3N0LXJlYWN0aW9uIn0.csRYhaTzlbq94AozLNUgonzISxcDzObyBWROaL4DJ8w&r=1ygf7&utm_campaign=email-half-magic-comments&action=post-comment&utm_source=substack&utm_medium=email
+- https://substack.com/app-link/post?publication_id=89120&post_id=201222951&utm_source=substack&utm_medium=email&utm_content=share&utm_campaign=email-share&action=share&triggerShare=true&isFreemail=false&r=1ygf7&token=eyJ1c2VyX2lkIjozMjg3MjAzLCJwb3N0X2lkIjoyMDEyMjI5NTEsImlhdCI6MTc4MDk2MDQ0OSwiZXhwIjoxNzgzNTUyNDQ5LCJpc3MiOiJwdWItODkxMjAiLCJzdWIiOiJwb3N0LXJlYWN0aW9uIn0.csRYhaTzlbq94AozLNUgonzISxcDzObyBWROaL4DJ8w
+- https://substack.com/redirect/2/eyJlIjoiaHR0cHM6Ly9vcGVuLnN1YnN0YWNrLmNvbS9wdWIvYXN0cmFsY29kZXh0ZW4vcC9iZXJrZWxleS1tZWV0dXAtdGhpcy13ZWRuZXNkYXktNzdiP3V0bV9zb3VyY2U9c3Vic3RhY2smdXRtX21lZGl1bT1lbWFpbCZ1dG1fY2FtcGFpZ249ZW1haWwtcmVzdGFjay1jb21tZW50JmFjdGlvbj1yZXN0YWNrLWNvbW1lbnQmcj0xeWdmNyZ0b2tlbj1leUoxYzJWeVgybGtJam96TWpnM01qQXpMQ0p3YjNOMFgybGtJam95TURFeU1qSTVOVEVzSW1saGRDSTZNVGM0TURrMk1EUTBPU3dpWlhod0lqb3hOemd6TlRVeU5EUTVMQ0pwYzNNaU9pSndkV0l0T0RreE1qQWlMQ0p6ZFdJaU9pSndiM04wTFhKbFlXTjBhVzl1SW4wLmNzUlloYVR6bGJxOTRBb3pMTlVnb256SVN4Y0R6T2J5QldST2FMNERKOHciLCJwIjoyMDEyMjI5NTEsInMiOjg5MTIwLCJmIjpmYWxzZSwidSI6MzI4NzIwMywiaWF0IjoxNzgwOTYwNDQ5LCJleHAiOjIwOTY1MzY0NDksImlzcyI6InB1Yi0wIiwic3ViIjoibGluay1yZWRpcmVjdCJ9.cb-1NT4kONfh3frveBQ-6tJlpXqdCirit3u5ceo6_5s?&utm_source=substack&utm_medium=email
+- https://open.substack.com/pub/astralcodexten/p/berkeley-meetup-this-wednesday-77b?utm_source=email&redirect=app-store&utm_campaign=email-read-in-app
+- https://substack.com/redirect/4de7c13a-9b52-4fdb-9e25-5f27a88a6903?j=eyJ1IjoiMXlnZjcifQ.KOUIeBfeCRzhIwFnKXyQigR4j0VpF-SZzascYhSZunw
+- https://substack.com/redirect/c14df26f-e3df-4d90-873a-80f412c99670?j=eyJ1IjoiMXlnZjcifQ.KOUIeBfeCRzhIwFnKXyQigR4j0VpF-SZzascYhSZunw
+- https://substack.com/redirect/2/eyJlIjoiaHR0cHM6Ly93d3cuYXN0cmFsY29kZXh0ZW4uY29tL2FjdGlvbi9kaXNhYmxlX2VtYWlsP3Rva2VuPWV5SjFjMlZ5WDJsa0lqb3pNamczTWpBekxDSndiM04wWDJsa0lqb3lNREV5TWpJNU5URXNJbWxoZENJNk1UYzRNRGsyTURRME9Td2laWGh3SWpveE9ERXlORGsyTkRRNUxDSnBjM01pT2lKd2RXSXRPRGt4TWpBaUxDSnpkV0lpT2lKa2FYTmhZbXhsWDJWdFlXbHNJbjAuX213Nk81aWstRlZhSE94cDVVRV9hYXh5eXhBZVl6MWgzRllFRlQ1NGgzRSIsInAiOjIwMTIyMjk1MSwicyI6ODkxMjAsImYiOmZhbHNlLCJ1IjozMjg3MjAzLCJpYXQiOjE3ODA5NjA0NDksImV4cCI6MjA5NjUzNjQ0OSwiaXNzIjoicHViLTAiLCJzdWIiOiJsaW5rLXJlZGlyZWN0In0.2_sU9UgnpE0cOm3QaNNVhlriC0rrDezjxxhpXqcKKfw?
+- https://substack.com/redirect/2/eyJlIjoiaHR0cHM6Ly9zdWJzdGFjay5jb20vc2lnbnVwP3V0bV9zb3VyY2U9c3Vic3RhY2smdXRtX21lZGl1bT1lbWFpbCZ1dG1fY29udGVudD1mb290ZXImdXRtX2NhbXBhaWduPWF1dG9maWxsZWQtZm9vdGVyJmZyZWVTaWdudXBFbWFpbD1jbWF0ZWN1bkBnbWFpbC5jb20mcj0xeWdmNyIsInAiOjIwMTIyMjk1MSwicyI6ODkxMjAsImYiOmZhbHNlLCJ1IjozMjg3MjAzLCJpYXQiOjE3ODA5NjA0NDksImV4cCI6MjA5NjUzNjQ0OSwiaXNzIjoicHViLTAiLCJzdWIiOiJsaW5rLXJlZGlyZWN0In0.n0uxYGV6PRCbwVA84Sgi-UkyXJRN25lm4Z7_otOCuzU?
