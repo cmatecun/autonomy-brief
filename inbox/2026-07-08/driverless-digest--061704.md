@@ -1,0 +1,77 @@
+---
+source: driverless-digest
+from: Harry from The Driverless Digest <thedriverlessdigest@substack.com>
+subject: "The Real Impact of Autonomy Will Come From Buses"
+date: 2026-07-08T13:17:04.000Z
+extracted: 2026-07-09T13:08:17.918Z
+---
+
+# The Real Impact of Autonomy Will Come From Buses
+
+**From:** Harry from The Driverless Digest <thedriverlessdigest@substack.com>  
+**Date:** 2026-07-08T13:17:04.000Z
+
+---
+
+View this post on the web at https://www.thedriverlessdigest.com/p/the-real-impact-of-autonomy-will
+
+Today’s post comes from Barak Sas [ https://substack.com/redirect/8db237c6-4775-4577-a67e-5f77940efc30?j=eyJ1IjoiMXlnZjcifQ.KOUIeBfeCRzhIwFnKXyQigR4j0VpF-SZzascYhSZunw ], Managing Director of Mobility Business [ https://substack.com/redirect/b37a28c9-a3cb-4fb4-82ac-4517308ba62e?j=eyJ1IjoiMXlnZjcifQ.KOUIeBfeCRzhIwFnKXyQigR4j0VpF-SZzascYhSZunw ], a consultancy focused on innovation, growth and autonomy in the mobility industry. Barak is also the author of #movingpeople [ https://substack.com/redirect/9428fa16-49a2-46c4-aace-c489625e7f43?j=eyJ1IjoiMXlnZjcifQ.KOUIeBfeCRzhIwFnKXyQigR4j0VpF-SZzascYhSZunw ], a weekly mobility & autonomy newsletter.
+Public transit is the backbone of cities. In New York, buses carry around 1.3 million trips [ https://substack.com/redirect/c00ceea7-0ef8-43d2-abb7-0807dc9d0465?j=eyJ1IjoiMXlnZjcifQ.KOUIeBfeCRzhIwFnKXyQigR4j0VpF-SZzascYhSZunw ] a day, more than ride-hailing and taxis combined at roughly one million. In London, the gap is even wider: about five million bus journeys [ https://substack.com/redirect/d761c09a-e682-4ac0-87c1-dfbaebf7e9bb?j=eyJ1IjoiMXlnZjcifQ.KOUIeBfeCRzhIwFnKXyQigR4j0VpF-SZzascYhSZunw ] versus approximately 0.6 million taxi and ride-hailing trips.
+Yet most of the autonomous conversation still centers on cars. Partly because the commercial upside is obvious and near-term, and partly because cars are sexier. But it is buses that carry far more people, and that’s where autonomy will have the real impact.
+More Public Transport on the Same Budget
+Turning buses autonomous holds real advantages. The first is solving the driver shortage. In 2023, the Geneva-based International Road Transport Union (IRU) estimated [ https://substack.com/redirect/66596ec4-b33e-4216-9ad4-ac3fca226284?j=eyJ1IjoiMXlnZjcifQ.KOUIeBfeCRzhIwFnKXyQigR4j0VpF-SZzascYhSZunw ] that Europe was missing around 100,000 bus and coach drivers, equivalent to 10% of the total workforce. By 2028, that number could more than double.
+Then comes the business case. Removing the driver changes the economics: lower operating costs; longer service hours, including extended nights and weekends, which raise vehicle utilisation; and smoother, more consistent driving, which can cut fuel and maintenance costs by at least 7%.
+Last, the social benefits. Greater efficiency and availability could make it viable to run services that are uneconomic today, especially in lower-density areas. Add to that the potential safety gains autonomy could deliver.
+The Ecosystem Is More Robust Than It Seems
+Across the world today, more than 30 autonomous bus and shuttle projects are running on public roads. As of June 2026, services were operating across Europe (Norway, Sweden, Finland, France, UK), Asia (Japan, South Korea, China) and the US (Atlanta, Jacksonville), to name a few. A smaller but important subset has moved into fare-collecting services, where passengers pay and the bus is treated as part of the transport network.
+The supplier landscape is taking shape too. ADASTEC, Imagry, Fusion Processing and TIER IV are among those working on autonomous bus platforms. Add shuttle players such as Ohmio, WeRide and HOLON, and the market starts to look less experimental than many assume.
+Technology still needs to improve, but it is not THE limiting factor. Buses have one important advantage over robotaxis: they run on fixed routes. That creates constrained operational design domains, which can be mapped, tested and prepared for in detail. Nor do operators need to automate the whole network at once. They can go route by route, starting with the simplest corridors: bus lanes, lower speeds, easy terrain and clear road markings.
+In April 2026, Norway went a step further: on a regular scheduled bus route, it removed the safety driver.  Yet the driver is still on the bus, sitting in a passenger seat. That’s because drivers serve many more functions than simply drive, and removing them is where the hardest problem lives.
+Respect the Driver
+A driver does much more than drive. They quietly handle the many small moments that keep a service running: elderly riders who need time to board and sit down, wheelchair users who need the ramp deployed, passengers who rely on a visible human presence when things turn uncomfortable or unsafe. They are also the default answer to “what happens if…” - the accident, the breakdown, the medical emergency, or the passenger in distress. And they are part of the reason people pay. With no one at the front of the bus, how do you ensure fares are collected?
+Public transport is designed to serve everyone, and vulnerable riders often lean hardest on that human presence. Remove the driver, and these tasks do not disappear. They have to be redesigned into the service. Bus autonomy is not “just” a technology challenge; it is mainly an operating model challenge.
+Show Me the Money
+The second major challenge is procurement. Public transport is not bought like consumer technology, where a better product can spread quickly once users like it. Buses are procured through long, risk-averse public processes shaped by central and local governments. Operators never procure at scale without a clear public budget.
+That creates a vicious cycle. Few authorities are ready to budget for scaled autonomous operations, which means operators won’t procure them. That, in turn, makes it harder for technology providers to raise capital, finance development and execute deployments. And unlike Waymo, bus autonomy companies cannot simply fund and run large fleets themselves while the market catches up. So the proposition stays nascent, while everyone waits for someone else to go first.
+Digital Bus Driver
+As for the major challenge, the driver, the industry is already at work. The answer has two parts.
+The first is service design. There will not be one driverless model. Different routes and communities will need different levels of human presence. Some services may run fully autonomously; others may carry an onboard attendant to assist passengers, at least during certain hours or on certain routes. A service might run unstaffed during the day, then add an attendant at night. Remote support can flex too: from a single control centre in another city to local “rider-assistance stations” that can reach passengers at short notice.
+The second is the emergence of a new operating layer. Companies such as Beti, Applied Autonomy and Beep are rebuilding the functions that used to sit with the driver. Remote supervisors can operate the air conditioning, open and close doors, and, where permitted, intervene in how the vehicle operates. Microphones, speakers and help buttons connect passengers to the control centre, while cameras and software flag anything from anti-social behaviour to fare evasion. These tools make up the digital bus driver: a bundle of tools, software, procedures and human support channels that keep the service running.
+Looking Ahead: A Slow Transition to Commercial Services
+For now, autonomous bus deployments will keep relying on public funding, national innovation programmes, operator sponsorship and regulatory exemptions. But over the next five years, expect the market to shift from experimentation to early deployment. Trials will multiply, technology and digital-driver tools will mature, more services will turn commercial, and more safety drivers will move out of the driver’s seat - either into passenger-support roles or remote operations.
+Watch Japan, Switzerland and Scandinavia in particular: the driver shortage is acute, regulation is moving and trials are most advanced.
+Cars will keep the spotlight. But if autonomy is going to change how cities move, it will do it on the bus. Safely, reliably and affordably, on a wet Tuesday night, with real passengers, real fares and no driver at the front.
+-Barak
+
+Unsubscribe https://substack.com/redirect/2/eyJlIjoiaHR0cHM6Ly93d3cudGhlZHJpdmVybGVzc2RpZ2VzdC5jb20vYWN0aW9uL2Rpc2FibGVfZW1haWw_dG9rZW49ZXlKMWMyVnlYMmxrSWpvek1qZzNNakF6TENKd2IzTjBYMmxrSWpveU1EVTNNVEEyTVRBc0ltbGhkQ0k2TVRjNE16VXhOall6TWl3aVpYaHdJam94T0RFMU1EVXlOak15TENKcGMzTWlPaUp3ZFdJdE16TTVORGs1TXlJc0luTjFZaUk2SW1ScGMyRmliR1ZmWlcxaGFXd2lmUS5TeGNMMjBjbUszWGhMX2JKMmZoa1ROa1dzRUNUbER2c1dtM0QyU1FWcnp3IiwicCI6MjA1NzEwNjEwLCJzIjozMzk0OTkzLCJmIjp0cnVlLCJ1IjozMjg3MjAzLCJpYXQiOjE3ODM1MTY2MzIsImV4cCI6MjA5OTA5MjYzMiwiaXNzIjoicHViLTAiLCJzdWIiOiJsaW5rLXJlZGlyZWN0In0.Va_kJFldIewYfRuh3KBPHXkNiRmYm7i5dREyOywqwcc?
+
+---
+
+## Links found in email
+
+- https://substack.com/redirect/2/eyJlIjoiaHR0cHM6Ly93d3cudGhlZHJpdmVybGVzc2RpZ2VzdC5jb20vc3Vic2NyaWJlP3V0bV9zb3VyY2U9ZW1haWwmdXRtX2NhbXBhaWduPWVtYWlsLXN1YnNjcmliZSZyPTF5Z2Y3Jm5leHQ9aHR0cHMlM0ElMkYlMkZ3d3cudGhlZHJpdmVybGVzc2RpZ2VzdC5jb20lMkZwJTJGdGhlLXJlYWwtaW1wYWN0LW9mLWF1dG9ub215LXdpbGwiLCJwIjoyMDU3MTA2MTAsInMiOjMzOTQ5OTMsImYiOnRydWUsInUiOjMyODcyMDMsImlhdCI6MTc4MzUxNjYzMiwiZXhwIjoyMDk5MDkyNjMyLCJpc3MiOiJwdWItMCIsInN1YiI6ImxpbmstcmVkaXJlY3QifQ.xDcWEWnEeG9tjhcmcOdDMA_lVycHjBNV-zrkBNLxGL8?
+- https://substack.com/app-link/post?publication_id=3394993&post_id=205710610&utm_source=post-email-title&utm_campaign=email-post-title&isFreemail=true&r=1ygf7&token=eyJ1c2VyX2lkIjozMjg3MjAzLCJwb3N0X2lkIjoyMDU3MTA2MTAsImlhdCI6MTc4MzUxNjYzMiwiZXhwIjoxNzg2MTA4NjMyLCJpc3MiOiJwdWItMzM5NDk5MyIsInN1YiI6InBvc3QtcmVhY3Rpb24ifQ.D7UR4audjbXO6EBbFQwFowDC594jH8fd9kNn0kjr_F4
+- https://substack.com/@movingpeople
+- https://substack.com/app-link/post?publication_id=3394993&post_id=205710610&utm_source=substack&isFreemail=true&submitLike=true&token=eyJ1c2VyX2lkIjozMjg3MjAzLCJwb3N0X2lkIjoyMDU3MTA2MTAsInJlYWN0aW9uIjoi4p2kIiwiaWF0IjoxNzgzNTE2NjMyLCJleHAiOjE3ODYxMDg2MzIsImlzcyI6InB1Yi0zMzk0OTkzIiwic3ViIjoicmVhY3Rpb24ifQ.T7KeOAestjxMlxaX78Opc2AlbvlFKb8Yje2t3FTlI3s&utm_medium=email&utm_campaign=email-reaction&r=1ygf7
+- https://substack.com/app-link/post?publication_id=3394993&post_id=205710610&utm_source=substack&utm_medium=email&isFreemail=true&comments=true&token=eyJ1c2VyX2lkIjozMjg3MjAzLCJwb3N0X2lkIjoyMDU3MTA2MTAsImlhdCI6MTc4MzUxNjYzMiwiZXhwIjoxNzg2MTA4NjMyLCJpc3MiOiJwdWItMzM5NDk5MyIsInN1YiI6InBvc3QtcmVhY3Rpb24ifQ.D7UR4audjbXO6EBbFQwFowDC594jH8fd9kNn0kjr_F4&r=1ygf7&utm_campaign=email-half-magic-comments&action=post-comment&utm_source=substack&utm_medium=email
+- https://substack.com/app-link/post?publication_id=3394993&post_id=205710610&utm_source=substack&utm_medium=email&utm_content=share&utm_campaign=email-share&action=share&triggerShare=true&isFreemail=true&r=1ygf7&token=eyJ1c2VyX2lkIjozMjg3MjAzLCJwb3N0X2lkIjoyMDU3MTA2MTAsImlhdCI6MTc4MzUxNjYzMiwiZXhwIjoxNzg2MTA4NjMyLCJpc3MiOiJwdWItMzM5NDk5MyIsInN1YiI6InBvc3QtcmVhY3Rpb24ifQ.D7UR4audjbXO6EBbFQwFowDC594jH8fd9kNn0kjr_F4
+- https://open.substack.com/pub/thedriverlessdigest/p/the-real-impact-of-autonomy-will?utm_source=substack&utm_medium=email&utm_campaign=email-restack-comment&action=restack-comment&r=1ygf7&token=eyJ1c2VyX2lkIjozMjg3MjAzLCJwb3N0X2lkIjoyMDU3MTA2MTAsImlhdCI6MTc4MzUxNjYzMiwiZXhwIjoxNzg2MTA4NjMyLCJpc3MiOiJwdWItMzM5NDk5MyIsInN1YiI6InBvc3QtcmVhY3Rpb24ifQ.D7UR4audjbXO6EBbFQwFowDC594jH8fd9kNn0kjr_F4&utm_source=substack&utm_medium=email
+- https://open.substack.com/pub/thedriverlessdigest/p/the-real-impact-of-autonomy-will?utm_source=email&redirect=app-store&utm_campaign=email-read-in-app
+- https://substack.com/app-link/post?publication_id=3394993&post_id=205710610&utm_source=podcast-email&play_audio=true&r=1ygf7&utm_campaign=email-play-on-substack&token=eyJ1c2VyX2lkIjozMjg3MjAzLCJwb3N0X2lkIjoyMDU3MTA2MTAsImlhdCI6MTc4MzUxNjYzMiwiZXhwIjoxNzg2MTA4NjMyLCJpc3MiOiJwdWItMzM5NDk5MyIsInN1YiI6InBvc3QtcmVhY3Rpb24ifQ.D7UR4audjbXO6EBbFQwFowDC594jH8fd9kNn0kjr_F4&utm_source=substack&utm_medium=email#play
+- https://substack.com/redirect/8db237c6-4775-4577-a67e-5f77940efc30?j=eyJ1IjoiMXlnZjcifQ.KOUIeBfeCRzhIwFnKXyQigR4j0VpF-SZzascYhSZunw
+- https://substack.com/redirect/b37a28c9-a3cb-4fb4-82ac-4517308ba62e?j=eyJ1IjoiMXlnZjcifQ.KOUIeBfeCRzhIwFnKXyQigR4j0VpF-SZzascYhSZunw
+- https://substack.com/redirect/9428fa16-49a2-46c4-aace-c489625e7f43?j=eyJ1IjoiMXlnZjcifQ.KOUIeBfeCRzhIwFnKXyQigR4j0VpF-SZzascYhSZunw
+- https://substack.com/redirect/c00ceea7-0ef8-43d2-abb7-0807dc9d0465?j=eyJ1IjoiMXlnZjcifQ.KOUIeBfeCRzhIwFnKXyQigR4j0VpF-SZzascYhSZunw
+- https://substack.com/redirect/d761c09a-e682-4ac0-87c1-dfbaebf7e9bb?j=eyJ1IjoiMXlnZjcifQ.KOUIeBfeCRzhIwFnKXyQigR4j0VpF-SZzascYhSZunw
+- https://substack.com/redirect/1fa1073d-f287-4bd3-8d9e-0a6af8e7d865?j=eyJ1IjoiMXlnZjcifQ.KOUIeBfeCRzhIwFnKXyQigR4j0VpF-SZzascYhSZunw
+- https://substack.com/redirect/23c0f306-a957-46f4-ae9b-b5c0a0d259b1?j=eyJ1IjoiMXlnZjcifQ.KOUIeBfeCRzhIwFnKXyQigR4j0VpF-SZzascYhSZunw
+- https://substack.com/redirect/66596ec4-b33e-4216-9ad4-ac3fca226284?j=eyJ1IjoiMXlnZjcifQ.KOUIeBfeCRzhIwFnKXyQigR4j0VpF-SZzascYhSZunw
+- https://substack.com/redirect/c7bcfa69-605c-4ba9-9086-64185f918665?j=eyJ1IjoiMXlnZjcifQ.KOUIeBfeCRzhIwFnKXyQigR4j0VpF-SZzascYhSZunw
+- https://substack.com/redirect/7fa15d03-d10e-4665-ab94-5fb09c699d55?j=eyJ1IjoiMXlnZjcifQ.KOUIeBfeCRzhIwFnKXyQigR4j0VpF-SZzascYhSZunw
+- https://substack.com/redirect/850ad8b7-bda9-4982-9695-d04092d054bd?j=eyJ1IjoiMXlnZjcifQ.KOUIeBfeCRzhIwFnKXyQigR4j0VpF-SZzascYhSZunw
+- https://substack.com/redirect/4963b736-49c1-4af4-b860-08c7fad06597?j=eyJ1IjoiMXlnZjcifQ.KOUIeBfeCRzhIwFnKXyQigR4j0VpF-SZzascYhSZunw
+- https://substack.com/@movingpeople?utm_campaign=guest_post_bio&utm_medium=email
+- https://substack.com/redirect/0736eec0-5603-4dfa-b8c1-2f5bf26633de?j=eyJ1IjoiMXlnZjcifQ.KOUIeBfeCRzhIwFnKXyQigR4j0VpF-SZzascYhSZunw
+- https://substack.com/redirect/2/eyJlIjoiaHR0cHM6Ly93d3cudGhlZHJpdmVybGVzc2RpZ2VzdC5jb20vbGVhZGVyYm9hcmQ_cmVmZXJyZXJfdG9rZW49MXlnZjcmcj0xeWdmNyZ1dG1fY2FtcGFpZ249ZW1haWwtbGVhZGVyYm9hcmQiLCJwIjoyMDU3MTA2MTAsInMiOjMzOTQ5OTMsImYiOnRydWUsInUiOjMyODcyMDMsImlhdCI6MTc4MzUxNjYzMiwiZXhwIjoyMDk5MDkyNjMyLCJpc3MiOiJwdWItMCIsInN1YiI6ImxpbmstcmVkaXJlY3QifQ.uifyN--irjS007HWiTkuiv23ka8Su0tA0y_JUiYiLBQ?&utm_source=substack&utm_medium=email&utm_content=postcta
+- https://substack.com/redirect/2/eyJlIjoiaHR0cHM6Ly93d3cudGhlZHJpdmVybGVzc2RpZ2VzdC5jb20vYWN0aW9uL2Rpc2FibGVfZW1haWw_dG9rZW49ZXlKMWMyVnlYMmxrSWpvek1qZzNNakF6TENKd2IzTjBYMmxrSWpveU1EVTNNVEEyTVRBc0ltbGhkQ0k2TVRjNE16VXhOall6TWl3aVpYaHdJam94T0RFMU1EVXlOak15TENKcGMzTWlPaUp3ZFdJdE16TTVORGs1TXlJc0luTjFZaUk2SW1ScGMyRmliR1ZmWlcxaGFXd2lmUS5TeGNMMjBjbUszWGhMX2JKMmZoa1ROa1dzRUNUbER2c1dtM0QyU1FWcnp3IiwicCI6MjA1NzEwNjEwLCJzIjozMzk0OTkzLCJmIjp0cnVlLCJ1IjozMjg3MjAzLCJpYXQiOjE3ODM1MTY2MzIsImV4cCI6MjA5OTA5MjYzMiwiaXNzIjoicHViLTAiLCJzdWIiOiJsaW5rLXJlZGlyZWN0In0.Va_kJFldIewYfRuh3KBPHXkNiRmYm7i5dREyOywqwcc?
+- https://substack.com/redirect/2/eyJlIjoiaHR0cHM6Ly9zdWJzdGFjay5jb20vc2lnbnVwP3V0bV9zb3VyY2U9c3Vic3RhY2smdXRtX21lZGl1bT1lbWFpbCZ1dG1fY29udGVudD1mb290ZXImdXRtX2NhbXBhaWduPWF1dG9maWxsZWQtZm9vdGVyJmZyZWVTaWdudXBFbWFpbD1jbWF0ZWN1bkBnbWFpbC5jb20mcj0xeWdmNyIsInAiOjIwNTcxMDYxMCwicyI6MzM5NDk5MywiZiI6dHJ1ZSwidSI6MzI4NzIwMywiaWF0IjoxNzgzNTE2NjMyLCJleHAiOjIwOTkwOTI2MzIsImlzcyI6InB1Yi0wIiwic3ViIjoibGluay1yZWRpcmVjdCJ9.4llGthI5ewVx2dVF6b-WSVXvBloEmhIg39Daws7uuP4?
