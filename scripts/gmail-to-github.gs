@@ -63,6 +63,7 @@ function extractAndPush() {
   const threads = sourceLabel.getThreads(0, CONFIG.MAX_EMAILS_PER_RUN);
   let processed = 0;
   let skipped = 0;
+  let failed = 0;
 
   for (const thread of threads) {
     // Skip if already processed
@@ -73,6 +74,8 @@ function extractAndPush() {
     }
 
     const messages = thread.getMessages();
+    let allPushed = true;
+
     for (const message of messages) {
       const messageDate = message.getDate();
 
@@ -86,15 +89,35 @@ function extractAndPush() {
         processed++;
         Logger.log("Pushed: " + extracted.subject);
       } else {
+        failed++;
+        allPushed = false;
         Logger.log("FAILED: " + extracted.subject);
       }
     }
 
-    // Mark thread as processed
-    thread.addLabel(processedLabel);
+    // Only mark the thread processed if every push for it succeeded. Marking
+    // unconditionally means an outage (expired token, API error) silently
+    // consumes emails that were never actually saved.
+    if (allPushed) {
+      thread.addLabel(processedLabel);
+    } else {
+      Logger.log("  -> Thread left unprocessed so it will be retried next run.");
+    }
   }
 
-  Logger.log("Done. Pushed: " + processed + ", Skipped (already processed): " + skipped);
+  Logger.log(
+    "Done. Pushed: " + processed +
+    ", Failed: " + failed +
+    ", Skipped (already processed): " + skipped
+  );
+
+  if (failed > 0) {
+    throw new Error(
+      failed + " message(s) failed to push. Most likely the GitHub token has " +
+      "expired — regenerate it and re-run setGitHubToken(). Affected threads " +
+      "were NOT marked processed and will retry on the next run."
+    );
+  }
 }
 
 // ============================================================
@@ -317,6 +340,54 @@ function setGitHubToken() {
  */
 function getGitHubToken() {
   return PropertiesService.getScriptProperties().getProperty("GITHUB_TOKEN");
+}
+
+/**
+ * RECOVERY: clear the "Processed" label from recent threads so they get
+ * re-extracted on the next extractAndPush() run.
+ *
+ * Use this after an outage where pushes were failing but threads were still
+ * being marked processed (the pre-fix behavior). Re-pushing is safe: files are
+ * named deterministically from the sender and message time, so a repeat push
+ * updates the existing file rather than creating a duplicate.
+ *
+ * Edit RECOVERY_DAYS below to control how far back to reset, then run this
+ * function, then run extractAndPush().
+ *
+ * NOTE: extractAndPush() ignores messages older than CONFIG.LOOKBACK_DAYS
+ * (currently 7). To backfill further back than that, temporarily raise
+ * LOOKBACK_DAYS at the top of this file to match RECOVERY_DAYS.
+ */
+function clearProcessedLabelRecent() {
+  const RECOVERY_DAYS = 10;
+
+  const processedLabel = GmailApp.getUserLabelByName(CONFIG.PROCESSED_LABEL);
+  if (!processedLabel) {
+    Logger.log("No '" + CONFIG.PROCESSED_LABEL + "' label found — nothing to clear.");
+    return;
+  }
+
+  const cutoff = new Date();
+  cutoff.setDate(cutoff.getDate() - RECOVERY_DAYS);
+
+  const threads = processedLabel.getThreads(0, 200);
+  let cleared = 0;
+  let leftAlone = 0;
+
+  for (const thread of threads) {
+    if (thread.getLastMessageDate() >= cutoff) {
+      thread.removeLabel(processedLabel);
+      cleared++;
+    } else {
+      leftAlone++;
+    }
+  }
+
+  Logger.log(
+    "Cleared 'Processed' from " + cleared + " thread(s) newer than " +
+    RECOVERY_DAYS + " days. Left " + leftAlone + " older thread(s) alone."
+  );
+  Logger.log("Now run extractAndPush() to re-push them.");
 }
 
 /**
