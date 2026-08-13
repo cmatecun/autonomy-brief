@@ -602,6 +602,70 @@ def call_claude(prompt: str) -> str:
 
 
 # ---------------------------------------------------------------------------
+# Health checks
+# ---------------------------------------------------------------------------
+
+# If the newest inbox file is older than this, the Gmail -> GitHub Apps Script
+# has almost certainly stopped working (expired PAT, disabled trigger, etc).
+INBOX_STALE_DAYS = 4
+
+
+def gha_annotate(level: str, message: str) -> None:
+    """Emit a GitHub Actions annotation so it surfaces in the run summary."""
+    if os.environ.get("GITHUB_ACTIONS") == "true":
+        print(f"::{level}::{message}")
+    else:
+        print(f"[{level.upper()}] {message}")
+
+
+def check_inbox_freshness() -> tuple[bool, str]:
+    """Return (is_stale, message) describing how current the inbox is.
+
+    The digest can still be generated from RSS alone, but a stale inbox means
+    the newsletter half of the pipeline is dead and the digest is degraded.
+    """
+    if not INBOX_DIR.exists():
+        return True, "inbox/ directory does not exist"
+
+    dated_dirs = []
+    for d in INBOX_DIR.iterdir():
+        if not d.is_dir():
+            continue
+        try:
+            dated_dirs.append(datetime.strptime(d.name, "%Y-%m-%d").date())
+        except ValueError:
+            continue
+
+    if not dated_dirs:
+        return True, "inbox/ contains no dated directories"
+
+    newest = max(dated_dirs)
+    age = (datetime.now(timezone.utc).date() - newest).days
+    if age > INBOX_STALE_DAYS:
+        return True, (
+            f"newest inbox content is {age} days old ({newest.isoformat()}). "
+            f"The Gmail->GitHub Apps Script has likely stopped — check that its "
+            f"GitHub token has not expired and its trigger is still enabled."
+        )
+    return False, f"newest inbox content is {age} day(s) old ({newest.isoformat()})"
+
+
+def preflight_api_key() -> None:
+    """Fail fast with an actionable message if the API key is missing/invalid."""
+    key = os.environ.get("ANTHROPIC_API_KEY")
+    if not key:
+        raise SystemExit(
+            "ANTHROPIC_API_KEY is not set. Add it at:\n"
+            "  https://github.com/cmatecun/autonomy-brief/settings/secrets/actions"
+        )
+    if not key.startswith("sk-ant-"):
+        gha_annotate(
+            "warning",
+            "ANTHROPIC_API_KEY does not look like an Anthropic key (expected 'sk-ant-' prefix).",
+        )
+
+
+# ---------------------------------------------------------------------------
 # Main
 # ---------------------------------------------------------------------------
 
@@ -611,9 +675,7 @@ def main() -> int:
     print("AV Weekly Digest Generator")
     print("=" * 60)
 
-    if not os.environ.get("ANTHROPIC_API_KEY"):
-        print("ERROR: ANTHROPIC_API_KEY not set", file=sys.stderr)
-        return 1
+    preflight_api_key()
 
     skip, reason = should_skip()
     print(f"\nSkip guard: {reason}")
@@ -627,10 +689,14 @@ def main() -> int:
 
     print(f"\nGenerating digest for week of {week_label}")
 
-    # 1. Read inbox
+    # 1. Read inbox (and check the Gmail->GitHub pipeline is still alive)
     print("\n[1/4] Reading inbox...")
+    inbox_stale, freshness_msg = check_inbox_freshness()
     inbox_items = read_inbox()
     print(f"  Found {len(inbox_items)} emails in last {LOOKBACK_DAYS} days")
+    print(f"  Freshness: {freshness_msg}")
+    if inbox_stale:
+        gha_annotate("warning", f"STALE INBOX: {freshness_msg}")
 
     # 2. Fetch RSS feeds
     print("\n[2/4] Fetching RSS feeds...")
@@ -655,6 +721,17 @@ def main() -> int:
     prompt = build_prompt(content, week_label)
     digest_md = call_claude(prompt)
 
+    # Prepend a visible banner if this digest was built on degraded inputs, so a
+    # broken upstream pipeline is obvious in the email rather than silent.
+    if inbox_stale:
+        banner = (
+            "> ⚠️ **Data gap warning** — no newsletter content was available for this "
+            f"digest ({freshness_msg}). This brief was built from RSS feeds only. "
+            "The Gmail → GitHub Apps Script needs attention: check whether its GitHub "
+            "token expired or its trigger was disabled.\n\n"
+        )
+        digest_md = banner + digest_md
+
     # Save digest
     DIGEST_DIR.mkdir(parents=True, exist_ok=True)
     digest_path = DIGEST_DIR / f"{today.isoformat()}.md"
@@ -664,6 +741,9 @@ def main() -> int:
     # Save jobs state for next week's NEW detection
     save_jobs_state(jobs)
     print(f"✓ Jobs state updated: {JOBS_STATE_FILE.relative_to(REPO_ROOT)}")
+
+    if inbox_stale:
+        print("\n⚠️  Digest generated on DEGRADED inputs (RSS only, no newsletters).")
 
     return 0
 
