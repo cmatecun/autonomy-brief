@@ -47,7 +47,10 @@ DATA_DIR = REPO_ROOT / "data"
 JOBS_STATE_FILE = DATA_DIR / "jobs.json"
 
 LOOKBACK_DAYS = 7
-SKIP_GUARD_DAYS = int(os.environ.get("SKIP_GUARD_DAYS", "5"))
+# Guards against duplicate digests when a scheduled run double-fires (which
+# happens minutes apart), while staying short enough that an off-cycle manual
+# run doesn't suppress the next Monday's scheduled one.
+SKIP_GUARD_DAYS = int(os.environ.get("SKIP_GUARD_DAYS", "3"))
 FORCE_RUN = os.environ.get("FORCE_RUN") == "1"
 
 MODEL_ID = "claude-sonnet-4-5"
