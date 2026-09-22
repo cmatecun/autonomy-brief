@@ -1,0 +1,49 @@
+---
+source: astral-codex-ten
+from: Astral Codex Ten <astralcodexten@substack.com>
+subject: "Open Thread 452"
+date: 2026-09-21T22:05:59.000Z
+extracted: 2026-09-22T13:08:15.787Z
+---
+
+# Open Thread 452
+
+**From:** Astral Codex Ten <astralcodexten@substack.com>  
+**Date:** 2026-09-21T22:05:59.000Z
+
+---
+
+View this post on the web at https://www.astralcodexten.com/p/open-thread-452
+
+This is the weekly visible open thread. Post about anything you want, ask random questions, whatever. ACX has an unofficial subreddit [ https://substack.com/redirect/1a83fbf3-d7e3-4738-a5e5-0d8804715a19?j=eyJ1IjoiMXlnZjcifQ.KOUIeBfeCRzhIwFnKXyQigR4j0VpF-SZzascYhSZunw ], Discord [ https://substack.com/redirect/a78e22c0-3f30-4cbe-af79-9201cffcc1e7?j=eyJ1IjoiMXlnZjcifQ.KOUIeBfeCRzhIwFnKXyQigR4j0VpF-SZzascYhSZunw ], and bulletin board [ https://substack.com/redirect/7b1225df-fffd-403e-81ae-c82c3567c993?j=eyJ1IjoiMXlnZjcifQ.KOUIeBfeCRzhIwFnKXyQigR4j0VpF-SZzascYhSZunw ], and in-person meetups around the world [ https://substack.com/redirect/2d4424cd-aa8e-4c05-a8b5-31e1c6133998?j=eyJ1IjoiMXlnZjcifQ.KOUIeBfeCRzhIwFnKXyQigR4j0VpF-SZzascYhSZunw ]. Most content is free, some is subscriber only; you can subscribe here [ https://substack.com/redirect/5c4d7521-cfa1-4001-8d61-276ade4360cd?j=eyJ1IjoiMXlnZjcifQ.KOUIeBfeCRzhIwFnKXyQigR4j0VpF-SZzascYhSZunw ]. Also:
+1: Josh Morrison, who wrote the guest post about how AI Superforecasting Will Transform The FDA [ https://substack.com/redirect/627186f9-7472-4590-a048-a33c7468a4dd?j=eyJ1IjoiMXlnZjcifQ.KOUIeBfeCRzhIwFnKXyQigR4j0VpF-SZzascYhSZunw ], will be doing a panel on the subject with former FDA employee Adam Kroetsch in SF on October 1. See here to RSVP [ https://substack.com/redirect/0896f036-da97-4024-8969-159a34fc71b1?j=eyJ1IjoiMXlnZjcifQ.KOUIeBfeCRzhIwFnKXyQigR4j0VpF-SZzascYhSZunw ].
+2: Latest EA college meetup additions: Cambridge, Cairo, Technical University of Munich. Latest time/location changes: Binghamton. As always, see the list [ https://substack.com/redirect/21be4045-ab46-427d-b31c-b21ea25c0831?j=eyJ1IjoiMXlnZjcifQ.KOUIeBfeCRzhIwFnKXyQigR4j0VpF-SZzascYhSZunw ] for the details.
+3: An ACX grantee asked me if I could sign ACX Grants up for various clouds’ free compute programs, and this snowballed into a discussion with some AI safety charities that also wanted this. The answer currently seems to be no for the clouds I looked at, but I’m still excited about helping exciting philanthropically-minded startups and nonprofits get compute. Please let me know if you represent a compute provider or compute-rich organization who would be interested in lending some to needy startups/nonprofits in exchange for effusive thanks and free advertisements on ACX.
+4: Thanks to people who chimed in with concerns about the most recent book review finalist, This Is Going To Hurt [ https://substack.com/redirect/8df5e04c-7963-424f-b2f1-c74e6fad0a37?j=eyJ1IjoiMXlnZjcifQ.KOUIeBfeCRzhIwFnKXyQigR4j0VpF-SZzascYhSZunw ], being partially AI-written. In the comments of the contest rules, I said [ https://substack.com/redirect/cfacaf5a-069b-4939-b546-1ae8098c2e23?j=eyJ1IjoiMXlnZjcifQ.KOUIeBfeCRzhIwFnKXyQigR4j0VpF-SZzascYhSZunw ] that “You may use AI for research and to help you with small writing tasks, but the large majority must be written by you.” This was in the comments and not the formal rules, but I think there’s a general understanding that using AI in what is at least partly a writing contest is against the spirit of the exercise. On the other hand, this was a joint entry by two contributors, and one of them didn’t use AI. My splitting-the-difference decision is that I won’t disqualify this entry, I’ll let its many detractors vote against it organically at the final vote, and the various finalist perks (free subscription, right to pitch me pieces, prize money if it wins) will go only to the contributor who didn’t use AI. Next contest, I’ll try to have a firmer policy, something like “any entry with a greater than 5% AI-written Pangram score is disqualified, and everyone in a joint entry is responsible for making sure their co-contributor doesn’t bring them over this limit”.
+
+Unsubscribe https://substack.com/redirect/2/eyJlIjoiaHR0cHM6Ly93d3cuYXN0cmFsY29kZXh0ZW4uY29tL2FjdGlvbi9kaXNhYmxlX2VtYWlsP3Rva2VuPWV5SjFjMlZ5WDJsa0lqb3pNamczTWpBekxDSndiM04wWDJsa0lqb3lNVFk0TURreU5Ea3NJbWxoZENJNk1UYzVNREF5T0RjeU15d2laWGh3SWpveE9ESXhOVFkwTnpJekxDSnBjM01pT2lKd2RXSXRPRGt4TWpBaUxDSnpkV0lpT2lKa2FYTmhZbXhsWDJWdFlXbHNJbjAuSUJseENBZGRocEdqWHhfWldLM2phbFpiMWlGT3ZXbVZyVW1wUEs3ekpuWSIsInAiOjIxNjgwOTI0OSwicyI6ODkxMjAsImYiOmZhbHNlLCJ1IjozMjg3MjAzLCJpYXQiOjE3OTAwMjg3MjMsImV4cCI6MjEwNTYwNDcyMywiaXNzIjoicHViLTAiLCJzdWIiOiJsaW5rLXJlZGlyZWN0In0.HAZb2Un5Od_wtdMeD3bNOYnpBE6pnLkzhvezo_ztATs?
+
+---
+
+## Links found in email
+
+- https://substack.com/redirect/2/eyJlIjoiaHR0cHM6Ly93d3cuYXN0cmFsY29kZXh0ZW4uY29tL3N1YnNjcmliZT91dG1fc291cmNlPWVtYWlsJnV0bV9jYW1wYWlnbj1lbWFpbC1zdWJzY3JpYmUmcj0xeWdmNyZuZXh0PWh0dHBzJTNBJTJGJTJGd3d3LmFzdHJhbGNvZGV4dGVuLmNvbSUyRnAlMkZvcGVuLXRocmVhZC00NTIiLCJwIjoyMTY4MDkyNDksInMiOjg5MTIwLCJmIjpmYWxzZSwidSI6MzI4NzIwMywiaWF0IjoxNzkwMDI4NzIzLCJleHAiOjIxMDU2MDQ3MjMsImlzcyI6InB1Yi0wIiwic3ViIjoibGluay1yZWRpcmVjdCJ9.gY8NJ58Na0f7LeCNYmyCq1a5dTY7gVTdUQlACryRAzg?
+- https://substack.com/app-link/post?publication_id=89120&post_id=216809249&utm_source=post-email-title&utm_campaign=email-post-title&isFreemail=false&r=1ygf7&token=eyJ1c2VyX2lkIjozMjg3MjAzLCJwb3N0X2lkIjoyMTY4MDkyNDksImlhdCI6MTc5MDAyODcyMywiZXhwIjoxNzkyNjIwNzIzLCJpc3MiOiJwdWItODkxMjAiLCJzdWIiOiJwb3N0LXJlYWN0aW9uIn0.vgQq7cPrEIs4dI1qsG5XGFXOyVyfS76Z7GyKbAnmEOY
+- https://substack.com/@astralcodexten
+- https://substack.com/app-link/post?publication_id=89120&post_id=216809249&utm_source=substack&isFreemail=false&submitLike=true&token=eyJ1c2VyX2lkIjozMjg3MjAzLCJwb3N0X2lkIjoyMTY4MDkyNDksInJlYWN0aW9uIjoi4p2kIiwiaWF0IjoxNzkwMDI4NzIzLCJleHAiOjE3OTI2MjA3MjMsImlzcyI6InB1Yi04OTEyMCIsInN1YiI6InJlYWN0aW9uIn0.mzX2TssBK1uQdcVIOYE25EAsy4xj6ArHHpyuVJzUwf0&utm_medium=email&utm_campaign=email-reaction&r=1ygf7
+- https://substack.com/app-link/post?publication_id=89120&post_id=216809249&utm_source=substack&utm_medium=email&isFreemail=false&comments=true&token=eyJ1c2VyX2lkIjozMjg3MjAzLCJwb3N0X2lkIjoyMTY4MDkyNDksImlhdCI6MTc5MDAyODcyMywiZXhwIjoxNzkyNjIwNzIzLCJpc3MiOiJwdWItODkxMjAiLCJzdWIiOiJwb3N0LXJlYWN0aW9uIn0.vgQq7cPrEIs4dI1qsG5XGFXOyVyfS76Z7GyKbAnmEOY&r=1ygf7&utm_campaign=email-half-magic-comments&action=post-comment&utm_source=substack&utm_medium=email
+- https://substack.com/app-link/post?publication_id=89120&post_id=216809249&utm_source=substack&utm_medium=email&utm_content=share&utm_campaign=email-share&action=share&triggerShare=true&isFreemail=false&r=1ygf7&token=eyJ1c2VyX2lkIjozMjg3MjAzLCJwb3N0X2lkIjoyMTY4MDkyNDksImlhdCI6MTc5MDAyODcyMywiZXhwIjoxNzkyNjIwNzIzLCJpc3MiOiJwdWItODkxMjAiLCJzdWIiOiJwb3N0LXJlYWN0aW9uIn0.vgQq7cPrEIs4dI1qsG5XGFXOyVyfS76Z7GyKbAnmEOY
+- https://open.substack.com/pub/astralcodexten/p/open-thread-452?utm_source=substack&utm_medium=email&utm_campaign=email-restack-comment&action=restack-comment&r=1ygf7&token=eyJ1c2VyX2lkIjozMjg3MjAzLCJwb3N0X2lkIjoyMTY4MDkyNDksImlhdCI6MTc5MDAyODcyMywiZXhwIjoxNzkyNjIwNzIzLCJpc3MiOiJwdWItODkxMjAiLCJzdWIiOiJwb3N0LXJlYWN0aW9uIn0.vgQq7cPrEIs4dI1qsG5XGFXOyVyfS76Z7GyKbAnmEOY&utm_source=substack&utm_medium=email
+- https://open.substack.com/pub/astralcodexten/p/open-thread-452?utm_source=email&redirect=app-store-no-desktop&inbox=true&utm_campaign=email-read-in-app
+- https://substack.com/redirect/1a83fbf3-d7e3-4738-a5e5-0d8804715a19?j=eyJ1IjoiMXlnZjcifQ.KOUIeBfeCRzhIwFnKXyQigR4j0VpF-SZzascYhSZunw
+- https://substack.com/redirect/a78e22c0-3f30-4cbe-af79-9201cffcc1e7?j=eyJ1IjoiMXlnZjcifQ.KOUIeBfeCRzhIwFnKXyQigR4j0VpF-SZzascYhSZunw
+- https://substack.com/redirect/7b1225df-fffd-403e-81ae-c82c3567c993?j=eyJ1IjoiMXlnZjcifQ.KOUIeBfeCRzhIwFnKXyQigR4j0VpF-SZzascYhSZunw
+- https://substack.com/redirect/2d4424cd-aa8e-4c05-a8b5-31e1c6133998?j=eyJ1IjoiMXlnZjcifQ.KOUIeBfeCRzhIwFnKXyQigR4j0VpF-SZzascYhSZunw
+- https://substack.com/redirect/5c4d7521-cfa1-4001-8d61-276ade4360cd?j=eyJ1IjoiMXlnZjcifQ.KOUIeBfeCRzhIwFnKXyQigR4j0VpF-SZzascYhSZunw
+- https://substack.com/redirect/627186f9-7472-4590-a048-a33c7468a4dd?j=eyJ1IjoiMXlnZjcifQ.KOUIeBfeCRzhIwFnKXyQigR4j0VpF-SZzascYhSZunw
+- https://substack.com/redirect/0896f036-da97-4024-8969-159a34fc71b1?j=eyJ1IjoiMXlnZjcifQ.KOUIeBfeCRzhIwFnKXyQigR4j0VpF-SZzascYhSZunw
+- https://substack.com/redirect/21be4045-ab46-427d-b31c-b21ea25c0831?j=eyJ1IjoiMXlnZjcifQ.KOUIeBfeCRzhIwFnKXyQigR4j0VpF-SZzascYhSZunw
+- https://substack.com/redirect/8df5e04c-7963-424f-b2f1-c74e6fad0a37?j=eyJ1IjoiMXlnZjcifQ.KOUIeBfeCRzhIwFnKXyQigR4j0VpF-SZzascYhSZunw
+- https://substack.com/redirect/cfacaf5a-069b-4939-b546-1ae8098c2e23?j=eyJ1IjoiMXlnZjcifQ.KOUIeBfeCRzhIwFnKXyQigR4j0VpF-SZzascYhSZunw
+- https://substack.com/redirect/2/eyJlIjoiaHR0cHM6Ly93d3cuYXN0cmFsY29kZXh0ZW4uY29tL2FjdGlvbi9kaXNhYmxlX2VtYWlsP3Rva2VuPWV5SjFjMlZ5WDJsa0lqb3pNamczTWpBekxDSndiM04wWDJsa0lqb3lNVFk0TURreU5Ea3NJbWxoZENJNk1UYzVNREF5T0RjeU15d2laWGh3SWpveE9ESXhOVFkwTnpJekxDSnBjM01pT2lKd2RXSXRPRGt4TWpBaUxDSnpkV0lpT2lKa2FYTmhZbXhsWDJWdFlXbHNJbjAuSUJseENBZGRocEdqWHhfWldLM2phbFpiMWlGT3ZXbVZyVW1wUEs3ekpuWSIsInAiOjIxNjgwOTI0OSwicyI6ODkxMjAsImYiOmZhbHNlLCJ1IjozMjg3MjAzLCJpYXQiOjE3OTAwMjg3MjMsImV4cCI6MjEwNTYwNDcyMywiaXNzIjoicHViLTAiLCJzdWIiOiJsaW5rLXJlZGlyZWN0In0.HAZb2Un5Od_wtdMeD3bNOYnpBE6pnLkzhvezo_ztATs?
+- https://substack.com/redirect/2/eyJlIjoiaHR0cHM6Ly9zdWJzdGFjay5jb20vc2lnbnVwP3V0bV9zb3VyY2U9c3Vic3RhY2smdXRtX21lZGl1bT1lbWFpbCZ1dG1fY29udGVudD1mb290ZXImdXRtX2NhbXBhaWduPWF1dG9maWxsZWQtZm9vdGVyJmZyZWVTaWdudXBFbWFpbD1jbWF0ZWN1bkBnbWFpbC5jb20mcj0xeWdmNyIsInAiOjIxNjgwOTI0OSwicyI6ODkxMjAsImYiOmZhbHNlLCJ1IjozMjg3MjAzLCJpYXQiOjE3OTAwMjg3MjMsImV4cCI6MjEwNTYwNDcyMywiaXNzIjoicHViLTAiLCJzdWIiOiJsaW5rLXJlZGlyZWN0In0.NTkwkNbQ5iP4r5qP5RDuuYzKLqN2-Xve-Dxd-UqDXEg?
