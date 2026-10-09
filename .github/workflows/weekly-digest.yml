@@ -5,7 +5,15 @@ name: Weekly AV Digest
 # - We use 12:00 UTC year-round; the digest will arrive between 7-8 AM ET depending on DST.
 on:
   schedule:
-    - cron: "0 12 * * 1"  # Mondays at 12:00 UTC
+    # Primary attempt: Mondays at 12:00 UTC.
+    - cron: "0 12 * * 1"
+    # Backup attempts. GitHub intermittently fails to allocate a hosted runner
+    # ("job was not acquired by Runner of type hosted"), which kills the job
+    # before a single step executes and costs an entire week's digest. The
+    # skip guard in generate_digest.py makes these no-ops whenever an earlier
+    # attempt already produced this week's digest.
+    - cron: "0 18 * * 1"  # Monday afternoon
+    - cron: "0 12 * * 2"  # Tuesday morning
   workflow_dispatch:
     inputs:
       force:
