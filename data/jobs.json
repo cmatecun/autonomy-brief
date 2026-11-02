@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-26T17:56:42.607325+00:00",
+  "last_updated": "2026-11-02T21:05:35.774535+00:00",
   "jobs": [
     {
       "id": "7964897",
@@ -9,6 +9,13 @@
       "url": "https://careers.withwaymo.com/jobs?gh_jid=7964897"
     },
     {
+      "id": "8314252",
+      "company": "Waymo",
+      "title": "Group Product Manager, Depot Operations Automation",
+      "location": "Mountain View, CA, US; San Francisco, CA, US",
+      "url": "https://careers.withwaymo.com/jobs?gh_jid=8314252"
+    },
+    {
       "id": "7762871",
       "company": "Waymo",
       "title": "Group Product Manager, DevAI & Agentic Workflows",
@@ -16,18 +23,11 @@
       "url": "https://careers.withwaymo.com/jobs?gh_jid=7762871"
     },
     {
-      "id": "8073643",
+      "id": "8164435",
       "company": "Waymo",
-      "title": "Product Manager, Fleet Management Tools",
-      "location": "Mountain View, CA, USA; San Francisco, CA, USA",
-      "url": "https://careers.withwaymo.com/jobs?gh_jid=8073643"
-    },
-    {
-      "id": "8027001",
-      "company": "Waymo",
-      "title": "Product Manager, Growth",
-      "location": "Mountain View, CA, USA; San Francisco, CA, USA",
-      "url": "https://careers.withwaymo.com/jobs?gh_jid=8027001"
+      "title": "Group Product Manager, Singapore",
+      "location": "Singapore",
+      "url": "https://careers.withwaymo.com/jobs?gh_jid=8164435"
     },
     {
       "id": "8245284",
@@ -35,6 +35,13 @@
       "title": "Product Manager, Network Flows Optimization",
       "location": "San Francisco, CA, USA; Mountain View, CA, USA",
       "url": "https://careers.withwaymo.com/jobs?gh_jid=8245284"
+    },
+    {
+      "id": "8027001",
+      "company": "Waymo",
+      "title": "Senior Product Manager, Growth",
+      "location": "Mountain View, CA, USA; San Francisco, CA, USA",
+      "url": "https://careers.withwaymo.com/jobs?gh_jid=8027001"
     },
     {
       "id": "8289592",
@@ -56,6 +63,13 @@
       "title": "Staff Product Data Scientist, Infrastructure",
       "location": "Mountain View, CA, USA; San Francisco, CA, USA",
       "url": "https://careers.withwaymo.com/jobs?gh_jid=8034894"
+    },
+    {
+      "id": "8328202",
+      "company": "Waymo",
+      "title": "Staff Product Data Scientist, Marketplace Machine Learning",
+      "location": "Mountain View, CA, USA; San Francisco, CA, USA ",
+      "url": "https://careers.withwaymo.com/jobs?gh_jid=8328202"
     },
     {
       "id": "8289029",
@@ -135,13 +149,6 @@
       "url": "https://boards.greenhouse.io/andurilindustries/jobs/5205961007?gh_jid=5205961007"
     },
     {
-      "id": "5220654007",
-      "company": "Anduril",
-      "title": "Deputy Head of Production, Altius",
-      "location": "Ashville, Ohio, United States",
-      "url": "https://boards.greenhouse.io/andurilindustries/jobs/5220654007?gh_jid=5220654007"
-    },
-    {
       "id": "4962385007",
       "company": "Anduril",
       "title": "Deputy Head of Production, Autonomous Airpower (Fury)",
@@ -212,13 +219,6 @@
       "url": "https://boards.greenhouse.io/andurilindustries/jobs/5273710007?gh_jid=5273710007"
     },
     {
-      "id": "5176938007",
-      "company": "Anduril",
-      "title": "Lead Industrial Design Product Manager",
-      "location": "Costa Mesa, California, United States",
-      "url": "https://boards.greenhouse.io/andurilindustries/jobs/5176938007?gh_jid=5176938007"
-    },
-    {
       "id": "5217197007",
       "company": "Anduril",
       "title": "Lead Production Technician",
@@ -268,6 +268,13 @@
       "url": "https://boards.greenhouse.io/andurilindustries/jobs/5175494007?gh_jid=5175494007"
     },
     {
+      "id": "5267675007",
+      "company": "Anduril",
+      "title": "Product Manager, Connected Warfare",
+      "location": "Herndon, Virginia, United States",
+      "url": "https://boards.greenhouse.io/andurilindustries/jobs/5267675007?gh_jid=5267675007"
+    },
+    {
       "id": "5231699007",
       "company": "Anduril",
       "title": "Product Manager, Connected Warfare",
@@ -275,11 +282,11 @@
       "url": "https://boards.greenhouse.io/andurilindustries/jobs/5231699007?gh_jid=5231699007"
     },
     {
-      "id": "5267675007",
+      "id": "5274478007",
       "company": "Anduril",
-      "title": "Product Manager, Connected Warfare",
-      "location": "Herndon, Virginia, United States",
-      "url": "https://boards.greenhouse.io/andurilindustries/jobs/5267675007?gh_jid=5267675007"
+      "title": "Product Manager, Core Solutions",
+      "location": "Costa Mesa, California, United States",
+      "url": "https://boards.greenhouse.io/andurilindustries/jobs/5274478007?gh_jid=5274478007"
     },
     {
       "id": "5249097007",
@@ -338,17 +345,17 @@
       "url": "https://boards.greenhouse.io/andurilindustries/jobs/5247427007?gh_jid=5247427007"
     },
     {
-      "id": "5259097007",
+      "id": "5260012007",
       "company": "Anduril",
-      "title": "Senior Product Engineer, Data",
-      "location": "Boston, Massachusetts, United States",
-      "url": "https://boards.greenhouse.io/andurilindustries/jobs/5259097007?gh_jid=5259097007"
+      "title": "Senior Industrial Design Product Manager",
+      "location": "Costa Mesa, California, United States",
+      "url": "https://boards.greenhouse.io/andurilindustries/jobs/5260012007?gh_jid=5260012007"
     },
     {
       "id": "5259093007",
       "company": "Anduril",
       "title": "Senior Product Engineer, Data",
-      "location": "Costa Mesa, California, United States",
+      "location": "Ashville, Ohio, United States; Baltimore, Maryland, United States; Boston, Massachusetts, United States; Costa Mesa, California, United States; Washington, District of Columbia, United States",
       "url": "https://boards.greenhouse.io/andurilindustries/jobs/5259093007?gh_jid=5259093007"
     },
     {
@@ -359,18 +366,18 @@
       "url": "https://boards.greenhouse.io/andurilindustries/jobs/5150350007?gh_jid=5150350007"
     },
     {
-      "id": "5265420007",
-      "company": "Anduril",
-      "title": "Senior Production Software Engineer",
-      "location": "Waltham, Massachusetts, United States",
-      "url": "https://boards.greenhouse.io/andurilindustries/jobs/5265420007?gh_jid=5265420007"
-    },
-    {
       "id": "5236891007",
       "company": "Anduril",
       "title": "Senior Product Manager",
       "location": "Irvine, California, United States",
       "url": "https://boards.greenhouse.io/andurilindustries/jobs/5236891007?gh_jid=5236891007"
+    },
+    {
+      "id": "5279294007",
+      "company": "Anduril",
+      "title": "Senior Product Manager, Forward Deployed",
+      "location": "Colorado Springs, Colorado, United States",
+      "url": "https://boards.greenhouse.io/andurilindustries/jobs/5279294007?gh_jid=5279294007"
     },
     {
       "id": "5232510007",
@@ -385,6 +392,20 @@
       "title": "Senior Product Manager, Manufacturing Software",
       "location": "Costa Mesa, California, United States",
       "url": "https://boards.greenhouse.io/andurilindustries/jobs/5249218007?gh_jid=5249218007"
+    },
+    {
+      "id": "5158022007",
+      "company": "Anduril",
+      "title": "Senior Product Quality Engineer",
+      "location": "Ashville, Ohio, United States",
+      "url": "https://boards.greenhouse.io/andurilindustries/jobs/5158022007?gh_jid=5158022007"
+    },
+    {
+      "id": "5265970007",
+      "company": "Anduril",
+      "title": "Senior Product Quality Engineer",
+      "location": "Lexington, Massachusetts, United States; Waltham, Massachusetts, United States",
+      "url": "https://boards.greenhouse.io/andurilindustries/jobs/5265970007?gh_jid=5265970007"
     },
     {
       "id": "5034173007",
@@ -408,11 +429,11 @@
       "url": "https://boards.greenhouse.io/andurilindustries/jobs/5246753007?gh_jid=5246753007"
     },
     {
-      "id": "5265970007",
+      "id": "5034007007",
       "company": "Anduril",
       "title": "Senior Product Quality Engineer",
-      "location": "Lexington, Massachusetts, United States; Waltham, Massachusetts, United States",
-      "url": "https://boards.greenhouse.io/andurilindustries/jobs/5265970007?gh_jid=5265970007"
+      "location": "Costa Mesa, California, United States",
+      "url": "https://boards.greenhouse.io/andurilindustries/jobs/5034007007?gh_jid=5034007007"
     },
     {
       "id": "5256245007",
@@ -420,20 +441,6 @@
       "title": "Senior Product Quality Engineer",
       "location": "Victorville, California, United States",
       "url": "https://boards.greenhouse.io/andurilindustries/jobs/5256245007?gh_jid=5256245007"
-    },
-    {
-      "id": "5158022007",
-      "company": "Anduril",
-      "title": "Senior Product Quality Engineer",
-      "location": "Ashville, Ohio, United States",
-      "url": "https://boards.greenhouse.io/andurilindustries/jobs/5158022007?gh_jid=5158022007"
-    },
-    {
-      "id": "5034007007",
-      "company": "Anduril",
-      "title": "Senior Product Quality Engineer",
-      "location": "Costa Mesa, California, United States",
-      "url": "https://boards.greenhouse.io/andurilindustries/jobs/5034007007?gh_jid=5034007007"
     },
     {
       "id": "5132714007",
@@ -513,27 +520,6 @@
       "url": "https://boards.greenhouse.io/andurilindustries/jobs/5106472007?gh_jid=5106472007"
     },
     {
-      "id": "5224110007",
-      "company": "Anduril",
-      "title": "Senior Product Sourcing Engineer",
-      "location": "Huntsville, Alabama, United States",
-      "url": "https://boards.greenhouse.io/andurilindustries/jobs/5224110007?gh_jid=5224110007"
-    },
-    {
-      "id": "5209982007",
-      "company": "Anduril",
-      "title": "Senior Product Sourcing Engineer",
-      "location": "Huntsville, Alabama, United States",
-      "url": "https://boards.greenhouse.io/andurilindustries/jobs/5209982007?gh_jid=5209982007"
-    },
-    {
-      "id": "5198776007",
-      "company": "Anduril",
-      "title": "Senior Product Sourcing Engineer",
-      "location": "Costa Mesa, California, United States",
-      "url": "https://boards.greenhouse.io/andurilindustries/jobs/5198776007?gh_jid=5198776007"
-    },
-    {
       "id": "5174526007",
       "company": "Anduril",
       "title": "Senior Product Sourcing Engineer",
@@ -541,11 +527,25 @@
       "url": "https://boards.greenhouse.io/andurilindustries/jobs/5174526007?gh_jid=5174526007"
     },
     {
+      "id": "5224110007",
+      "company": "Anduril",
+      "title": "Senior Product Sourcing Engineer",
+      "location": "Huntsville, Alabama, United States",
+      "url": "https://boards.greenhouse.io/andurilindustries/jobs/5224110007?gh_jid=5224110007"
+    },
+    {
       "id": "5196927007",
       "company": "Anduril",
       "title": "Senior Product Sourcing Engineer",
       "location": "Costa Mesa, California, United States",
       "url": "https://boards.greenhouse.io/andurilindustries/jobs/5196927007?gh_jid=5196927007"
+    },
+    {
+      "id": "5209982007",
+      "company": "Anduril",
+      "title": "Senior Product Sourcing Engineer",
+      "location": "Huntsville, Alabama, United States",
+      "url": "https://boards.greenhouse.io/andurilindustries/jobs/5209982007?gh_jid=5209982007"
     },
     {
       "id": "5176779007",
@@ -569,25 +569,11 @@
       "url": "https://boards.greenhouse.io/andurilindustries/jobs/5209991007?gh_jid=5209991007"
     },
     {
-      "id": "5253779007",
+      "id": "5253766007",
       "company": "Anduril",
       "title": "Senior Product Sourcing Engineer, Counter Intrusion",
-      "location": "Remote",
-      "url": "https://boards.greenhouse.io/andurilindustries/jobs/5253779007?gh_jid=5253779007"
-    },
-    {
-      "id": "5253774007",
-      "company": "Anduril",
-      "title": "Senior Product Sourcing Engineer, Counter Intrusion",
-      "location": "Mountain View, California, United States; Remote",
-      "url": "https://boards.greenhouse.io/andurilindustries/jobs/5253774007?gh_jid=5253774007"
-    },
-    {
-      "id": "5238353007",
-      "company": "Anduril",
-      "title": "Senior Product Sourcing Engineer, Counter Intrusion",
-      "location": "Costa Mesa, California, United States",
-      "url": "https://boards.greenhouse.io/andurilindustries/jobs/5238353007?gh_jid=5238353007"
+      "location": "Fort Stockton, Texas, United States; Remote",
+      "url": "https://boards.greenhouse.io/andurilindustries/jobs/5253766007?gh_jid=5253766007"
     },
     {
       "id": "5253788007",
@@ -597,18 +583,25 @@
       "url": "https://boards.greenhouse.io/andurilindustries/jobs/5253788007?gh_jid=5253788007"
     },
     {
-      "id": "5253771007",
+      "id": "5253779007",
       "company": "Anduril",
       "title": "Senior Product Sourcing Engineer, Counter Intrusion",
       "location": "Remote",
-      "url": "https://boards.greenhouse.io/andurilindustries/jobs/5253771007?gh_jid=5253771007"
+      "url": "https://boards.greenhouse.io/andurilindustries/jobs/5253779007?gh_jid=5253779007"
     },
     {
-      "id": "5253766007",
+      "id": "5238353007",
       "company": "Anduril",
       "title": "Senior Product Sourcing Engineer, Counter Intrusion",
-      "location": "Fort Stockton, Texas, United States; Remote",
-      "url": "https://boards.greenhouse.io/andurilindustries/jobs/5253766007?gh_jid=5253766007"
+      "location": "Costa Mesa, California, United States",
+      "url": "https://boards.greenhouse.io/andurilindustries/jobs/5238353007?gh_jid=5238353007"
+    },
+    {
+      "id": "5253774007",
+      "company": "Anduril",
+      "title": "Senior Product Sourcing Engineer, Counter Intrusion",
+      "location": "Mountain View, California, United States; Remote",
+      "url": "https://boards.greenhouse.io/andurilindustries/jobs/5253774007?gh_jid=5253774007"
     },
     {
       "id": "5253759007",
@@ -616,6 +609,13 @@
       "title": "Senior Product Sourcing Engineer, Counter Intrusion",
       "location": "Remote; Seattle, Washington, United States",
       "url": "https://boards.greenhouse.io/andurilindustries/jobs/5253759007?gh_jid=5253759007"
+    },
+    {
+      "id": "5253771007",
+      "company": "Anduril",
+      "title": "Senior Product Sourcing Engineer, Counter Intrusion",
+      "location": "Remote",
+      "url": "https://boards.greenhouse.io/andurilindustries/jobs/5253771007?gh_jid=5253771007"
     },
     {
       "id": "5194628007",
@@ -737,6 +737,13 @@
       "url": "https://boards.greenhouse.io/andurilindustries/jobs/5243820007?gh_jid=5243820007"
     },
     {
+      "id": "5236529007",
+      "company": "Anduril",
+      "title": "Software Product Manager",
+      "location": "Costa Mesa, California, United States",
+      "url": "https://boards.greenhouse.io/andurilindustries/jobs/5236529007?gh_jid=5236529007"
+    },
+    {
       "id": "5226351007",
       "company": "Anduril",
       "title": "Software Product Manager - Factory Systems",
@@ -798,6 +805,13 @@
       "title": "Senior Technical Product Manager - Vehicle Experience",
       "location": "Foster City, CA",
       "url": "https://jobs.lever.co/zoox/82349ccb-1e23-4124-866b-bb235a702513"
+    },
+    {
+      "id": "0d678716-71bd-496e-8188-470df42c22b7",
+      "company": "Zoox",
+      "title": "Senior/Staff Technical Product Manager, Operational Design Domain (ODD) Tools",
+      "location": "Foster City, CA",
+      "url": "https://jobs.lever.co/zoox/0d678716-71bd-496e-8188-470df42c22b7"
     }
   ]
 }
