@@ -1,13 +1,6 @@
 {
-  "last_updated": "2026-11-09T21:46:56.389240+00:00",
+  "last_updated": "2026-11-16T21:27:38.297980+00:00",
   "jobs": [
-    {
-      "id": "7964897",
-      "company": "Waymo",
-      "title": "Director, Product Data Science - Fleet Optimization and Orchestration",
-      "location": "Mountain View, CA, US; San Francisco, CA, US",
-      "url": "https://careers.withwaymo.com/jobs?gh_jid=7964897"
-    },
     {
       "id": "8314252",
       "company": "Waymo",
@@ -37,6 +30,13 @@
       "url": "https://careers.withwaymo.com/jobs?gh_jid=8245284"
     },
     {
+      "id": "8346531",
+      "company": "Waymo",
+      "title": "Senior Product Manager, Fleet Resilience",
+      "location": "Mountain View, CA, US; San Francisco, CA, US",
+      "url": "https://careers.withwaymo.com/jobs?gh_jid=8346531"
+    },
+    {
       "id": "8289592",
       "company": "Waymo",
       "title": "Senior Product Manager, New Platform Discovery and Validation",
@@ -56,13 +56,6 @@
       "title": "Staff Product Data Scientist, Fleet Infrastructure",
       "location": "Mountain View, CA, USA; San Francisco, CA, USA",
       "url": "https://careers.withwaymo.com/jobs?gh_jid=8034894"
-    },
-    {
-      "id": "8328202",
-      "company": "Waymo",
-      "title": "Staff Product Data Scientist, Marketplace ML",
-      "location": "Mountain View, CA, USA; San Francisco, CA, USA ",
-      "url": "https://careers.withwaymo.com/jobs?gh_jid=8328202"
     },
     {
       "id": "8289029",
@@ -93,18 +86,11 @@
       "url": "https://job-boards.greenhouse.io/doordashusa/jobs/7071290"
     },
     {
-      "id": "4305450009",
-      "company": "Kodiak Robotics",
-      "title": "Senior Product Manager",
-      "location": "Mountain View, CA",
-      "url": "https://job-boards.greenhouse.io/kodiak/jobs/4305450009"
-    },
-    {
-      "id": "4305442009",
-      "company": "Kodiak Robotics",
-      "title": "Sr Product Manager, Assisted Autonomy",
-      "location": "Mountain View, CA",
-      "url": "https://job-boards.greenhouse.io/kodiak/jobs/4305442009"
+      "id": "8360552",
+      "company": "DoorDash",
+      "title": "Staff Product Manager, People Product (HR Partner Products)",
+      "location": "United States - Remote",
+      "url": "https://job-boards.greenhouse.io/doordashusa/jobs/8360552"
     },
     {
       "id": "4305446009",
@@ -147,6 +133,13 @@
       "title": "Senior Technical Product Manager - Vehicle Experience",
       "location": "Foster City, CA",
       "url": "https://jobs.lever.co/zoox/82349ccb-1e23-4124-866b-bb235a702513"
+    },
+    {
+      "id": "94942f6a-46a9-43c3-8584-840158ec8cd6",
+      "company": "Zoox",
+      "title": "Senior/Staff Technical Product Manager, Agentic AI Transformation",
+      "location": "Foster City, CA",
+      "url": "https://jobs.lever.co/zoox/94942f6a-46a9-43c3-8584-840158ec8cd6"
     },
     {
       "id": "0d678716-71bd-496e-8188-470df42c22b7",
